@@ -1,0 +1,4160 @@
+[
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/2025-01/",
+    "downloaded_at": "2025-06-14T19:40:01.153184"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../bbc-weather-api-with-python",
+    "downloaded_at": "2025-06-14T19:40:02.203635"
+  },
+  {
+    "title": "RAG with the CLI)",
+    "filename": "RAG_with_the_CLI).md",
+    "original_url": "https://tds.s-anand.net/#/rag-cli",
+    "downloaded_at": "2025-06-14T19:40:03.254209"
+  },
+  {
+    "title": "RAWgraphs",
+    "filename": "RAWgraphs.md",
+    "original_url": "https://tds.s-anand.net/#/rawgraphs",
+    "downloaded_at": "2025-06-14T19:40:04.301719"
+  },
+  {
+    "title": "CORS",
+    "filename": "CORS.md",
+    "original_url": "https://tds.s-anand.net/#/cors",
+    "downloaded_at": "2025-06-14T19:40:05.352102"
+  },
+  {
+    "title": "Visualizing Animated Data with PowerPoint",
+    "filename": "Visualizing_Animated_Data_with_PowerPoint.md",
+    "original_url": "https://tds.s-anand.net/#/visualizing-animated-data-with-powerpoint",
+    "downloaded_at": "2025-06-14T19:40:06.392845"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech",
+    "downloaded_at": "2025-06-14T19:40:07.449459"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech?id=openai-tts-1-for-text-to-speech-generation",
+    "downloaded_at": "2025-06-14T19:40:08.515350"
+  },
+  {
+    "title": "Geospatial Analysis with Excel",
+    "filename": "Geospatial_Analysis_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/geospatial-analysis-with-excel",
+    "downloaded_at": "2025-06-14T19:40:09.558396"
+  },
+  {
+    "title": "LLM Text Extraction",
+    "filename": "LLM_Text_Extraction.md",
+    "original_url": "https://tds.s-anand.net/#/llm-text-extraction",
+    "downloaded_at": "2025-06-14T19:40:10.608113"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering",
+    "downloaded_at": "2025-06-14T19:40:11.666295"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=use-prompt-optimizers",
+    "downloaded_at": "2025-06-14T19:40:12.726400"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/revealjs",
+    "downloaded_at": "2025-06-14T19:40:13.779375"
+  },
+  {
+    "title": "CI/CD: GitHub Actions",
+    "filename": "CI_CD__GitHub_Actions.md",
+    "original_url": "https://tds.s-anand.net/#/github-actions",
+    "downloaded_at": "2025-06-14T19:40:14.823150"
+  },
+  {
+    "title": "Notebooks: Google Colab",
+    "filename": "Notebooks__Google_Colab.md",
+    "original_url": "https://tds.s-anand.net/#/colab",
+    "downloaded_at": "2025-06-14T19:40:15.864381"
+  },
+  {
+    "title": "Hybrid RAG with TypeSense",
+    "filename": "Hybrid_RAG_with_TypeSense.md",
+    "original_url": "https://tds.s-anand.net/#/hybrid-rag-typesense",
+    "downloaded_at": "2025-06-14T19:40:16.930738"
+  },
+  {
+    "title": "Hybrid RAG with TypeSense",
+    "filename": "Hybrid_RAG_with_TypeSense.md",
+    "original_url": "https://tds.s-anand.net/#/hybrid-rag-typesense?id=embed-and-import-documents-into-typesense",
+    "downloaded_at": "2025-06-14T19:40:18.008931"
+  },
+  {
+    "title": "Hybrid RAG with TypeSense",
+    "filename": "Hybrid_RAG_with_TypeSense.md",
+    "original_url": "https://tds.s-anand.net/#/data-visualization-with-chatgpt",
+    "downloaded_at": "2025-06-14T19:40:19.059513"
+  },
+  {
+    "title": "Version Control: Git, GitHub",
+    "filename": "Version_Control__Git,_GitHub.md",
+    "original_url": "https://tds.s-anand.net/#/git",
+    "downloaded_at": "2025-06-14T19:40:20.110235"
+  },
+  {
+    "title": "Transforming Images",
+    "filename": "Transforming_Images.md",
+    "original_url": "https://tds.s-anand.net/#/transforming-images",
+    "downloaded_at": "2025-06-14T19:40:21.187863"
+  },
+  {
+    "title": "Transforming Images",
+    "filename": "Transforming_Images.md",
+    "original_url": "https://tds.s-anand.net/#/transforming-images?id=memory-efficient-processing",
+    "downloaded_at": "2025-06-14T19:40:22.267518"
+  },
+  {
+    "title": "Transforming Images",
+    "filename": "Transforming_Images.md",
+    "original_url": "https://tds.s-anand.net/#/transforming-images?id=color-and-enhancement",
+    "downloaded_at": "2025-06-14T19:40:23.348107"
+  },
+  {
+    "title": "Spreadsheet: Excel, Google Sheets",
+    "filename": "Spreadsheet__Excel,_Google_Sheets.md",
+    "original_url": "https://tds.s-anand.net/#/spreadsheets",
+    "downloaded_at": "2025-06-14T19:40:24.400253"
+  },
+  {
+    "title": "Base 64 Encoding",
+    "filename": "Base_64_Encoding.md",
+    "original_url": "https://tds.s-anand.net/#/base64-encoding",
+    "downloaded_at": "2025-06-14T19:40:25.447629"
+  },
+  {
+    "title": "Scraping emarketer.com",
+    "filename": "Scraping_emarketer.com.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-emarketer",
+    "downloaded_at": "2025-06-14T19:40:26.499538"
+  },
+  {
+    "title": "Function Calling",
+    "filename": "Function_Calling.md",
+    "original_url": "https://tds.s-anand.net/#/function-calling",
+    "downloaded_at": "2025-06-14T19:40:27.588125"
+  },
+  {
+    "title": "Data Visualization with Seaborn",
+    "filename": "Data_Visualization_with_Seaborn.md",
+    "original_url": "https://tds.s-anand.net/#/data-visualization-with-seaborn",
+    "downloaded_at": "2025-06-14T19:40:28.639499"
+  },
+  {
+    "title": "Data Analysis with SQL",
+    "filename": "Data_Analysis_with_SQL.md",
+    "original_url": "https://tds.s-anand.net/#/data-analysis-with-sql",
+    "downloaded_at": "2025-06-14T19:40:29.691670"
+  },
+  {
+    "title": "Data Analysis with DuckDB",
+    "filename": "Data_Analysis_with_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-analysis-with-duckdb",
+    "downloaded_at": "2025-06-14T19:40:30.745613"
+  },
+  {
+    "title": "Data Analysis with DuckDB",
+    "filename": "Data_Analysis_with_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-analysis-with-datasette",
+    "downloaded_at": "2025-06-14T19:40:31.787371"
+  },
+  {
+    "title": "Multimodal Embeddings",
+    "filename": "Multimodal_Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/multimodal-embeddings",
+    "downloaded_at": "2025-06-14T19:40:32.853531"
+  },
+  {
+    "title": "Multimodal Embeddings",
+    "filename": "Multimodal_Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/multimodal-embeddings?id=_3-google-vertex-ai-multimodal-embeddings",
+    "downloaded_at": "2025-06-14T19:40:33.922370"
+  },
+  {
+    "title": "Data Transformation in Excel",
+    "filename": "Data_Transformation_in_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/data-transformation-in-excel",
+    "downloaded_at": "2025-06-14T19:40:34.976156"
+  },
+  {
+    "title": "Data Transformation in Excel",
+    "filename": "Data_Transformation_in_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/data-transformation-in-excel?id=data-transformation-in-excel",
+    "downloaded_at": "2025-06-14T19:40:36.024674"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation",
+    "downloaded_at": "2025-06-14T19:40:37.088517"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=simple-image-editing",
+    "downloaded_at": "2025-06-14T19:40:38.158081"
+  },
+  {
+    "title": "LLM Sentiment Analysis",
+    "filename": "LLM_Sentiment_Analysis.md",
+    "original_url": "https://tds.s-anand.net/#/llm-sentiment-analysis",
+    "downloaded_at": "2025-06-14T19:40:39.212257"
+  },
+  {
+    "title": "Web Framework: FastAPI",
+    "filename": "Web_Framework__FastAPI.md",
+    "original_url": "https://tds.s-anand.net/#/fastapi",
+    "downloaded_at": "2025-06-14T19:40:40.278619"
+  },
+  {
+    "title": "Web Framework: FastAPI",
+    "filename": "Web_Framework__FastAPI.md",
+    "original_url": "https://tds.s-anand.net/#/fastapi?id=web-framework-fastapi",
+    "downloaded_at": "2025-06-14T19:40:41.349384"
+  },
+  {
+    "title": "Splitting Text in Excel",
+    "filename": "Splitting_Text_in_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/splitting-text-in-excel",
+    "downloaded_at": "2025-06-14T19:40:42.409227"
+  },
+  {
+    "title": "Splitting Text in Excel",
+    "filename": "Splitting_Text_in_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/splitting-text-in-excel?id=splitting-text-in-excel",
+    "downloaded_at": "2025-06-14T19:40:43.458133"
+  },
+  {
+    "title": "Project 1",
+    "filename": "Project_1.md",
+    "original_url": "https://tds.s-anand.net/#/project-tds-virtual-ta",
+    "downloaded_at": "2025-06-14T19:40:44.518535"
+  },
+  {
+    "title": "Project 1",
+    "filename": "Project_1.md",
+    "original_url": "https://tds.s-anand.net/#/project-tds-virtual-ta?id=scrape-the-data",
+    "downloaded_at": "2025-06-14T19:40:45.582364"
+  },
+  {
+    "title": "Outlier Detection with Excel",
+    "filename": "Outlier_Detection_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/outlier-detection-with-excel",
+    "downloaded_at": "2025-06-14T19:40:46.640062"
+  },
+  {
+    "title": "Correlation with Excel",
+    "filename": "Correlation_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/correlation-with-excel",
+    "downloaded_at": "2025-06-14T19:40:47.698432"
+  },
+  {
+    "title": "Correlation with Excel",
+    "filename": "Correlation_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/correlation-with-excel?id=correlation-with-excel",
+    "downloaded_at": "2025-06-14T19:40:48.759903"
+  },
+  {
+    "title": "Correlation with Excel",
+    "filename": "Correlation_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/marp",
+    "downloaded_at": "2025-06-14T19:40:49.824993"
+  },
+  {
+    "title": "AI Code Editors: GitHub Copilot",
+    "filename": "AI_Code_Editors__GitHub_Copilot.md",
+    "original_url": "https://tds.s-anand.net/#/github-copilot",
+    "downloaded_at": "2025-06-14T19:40:50.877909"
+  },
+  {
+    "title": "6. Data Analysis",
+    "filename": "6._Data_Analysis.md",
+    "original_url": "https://tds.s-anand.net/#/data-analysis",
+    "downloaded_at": "2025-06-14T19:40:51.930990"
+  },
+  {
+    "title": "6. Data Analysis",
+    "filename": "6._Data_Analysis.md",
+    "original_url": "https://tds.s-anand.net/#/data-analysis?id=data-analysis",
+    "downloaded_at": "2025-06-14T19:40:52.993051"
+  },
+  {
+    "title": "Local LLMs: Ollama",
+    "filename": "Local_LLMs__Ollama.md",
+    "original_url": "https://tds.s-anand.net/#/ollama",
+    "downloaded_at": "2025-06-14T19:40:54.065201"
+  },
+  {
+    "title": "Local LLMs: Ollama",
+    "filename": "Local_LLMs__Ollama.md",
+    "original_url": "https://tds.s-anand.net/#/ollama?id=local-llm-runner-ollama",
+    "downloaded_at": "2025-06-14T19:40:55.130480"
+  },
+  {
+    "title": "Geospatial Analysis with Python",
+    "filename": "Geospatial_Analysis_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/geospatial-analysis-with-python",
+    "downloaded_at": "2025-06-14T19:40:56.199501"
+  },
+  {
+    "title": "Data Transformation with dbt",
+    "filename": "Data_Transformation_with_dbt.md",
+    "original_url": "https://tds.s-anand.net/#/dbt",
+    "downloaded_at": "2025-06-14T19:40:57.265759"
+  },
+  {
+    "title": "LLM Evals",
+    "filename": "LLM_Evals.md",
+    "original_url": "https://tds.s-anand.net/#/llm-evals",
+    "downloaded_at": "2025-06-14T19:40:58.344755"
+  },
+  {
+    "title": "Scraping PDFs with Tabula",
+    "filename": "Scraping_PDFs_with_Tabula.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-pdfs-with-tabula",
+    "downloaded_at": "2025-06-14T19:40:59.414758"
+  },
+  {
+    "title": "4. Data Sourcing",
+    "filename": "4._Data_Sourcing.md",
+    "original_url": "https://tds.s-anand.net/#/data-sourcing",
+    "downloaded_at": "2025-06-14T19:41:00.482209"
+  },
+  {
+    "title": "4. Data Sourcing",
+    "filename": "4._Data_Sourcing.md",
+    "original_url": "https://tds.s-anand.net/#/data-sourcing?id=data-sourcing",
+    "downloaded_at": "2025-06-14T19:41:01.547124"
+  },
+  {
+    "title": "CSS Selectors",
+    "filename": "CSS_Selectors.md",
+    "original_url": "https://tds.s-anand.net/#/css-selectors",
+    "downloaded_at": "2025-06-14T19:41:02.610341"
+  },
+  {
+    "title": "CSS Selectors",
+    "filename": "CSS_Selectors.md",
+    "original_url": "https://tds.s-anand.net/#/data-analysis-with-chatgpt",
+    "downloaded_at": "2025-06-14T19:41:03.676323"
+  },
+  {
+    "title": "Actor Network Visualization",
+    "filename": "Actor_Network_Visualization.md",
+    "original_url": "https://tds.s-anand.net/#/actor-network-visualization",
+    "downloaded_at": "2025-06-14T19:41:04.746566"
+  },
+  {
+    "title": "Actor Network Visualization",
+    "filename": "Actor_Network_Visualization.md",
+    "original_url": "https://tds.s-anand.net/#/actor-network-visualization?id=actor-network-visualization",
+    "downloaded_at": "2025-06-14T19:41:05.814082"
+  },
+  {
+    "title": "Data Aggregation in Excel",
+    "filename": "Data_Aggregation_in_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/data-aggregation-in-excel",
+    "downloaded_at": "2025-06-14T19:41:06.880696"
+  },
+  {
+    "title": "Markdown",
+    "filename": "Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/markdown",
+    "downloaded_at": "2025-06-14T19:41:07.941845"
+  },
+  {
+    "title": "Markdown",
+    "filename": "Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/markdown?id=documentation-markdown",
+    "downloaded_at": "2025-06-14T19:41:09.004696"
+  },
+  {
+    "title": "Python tools: uv",
+    "filename": "Python_tools__uv.md",
+    "original_url": "https://tds.s-anand.net/#/uv",
+    "downloaded_at": "2025-06-14T19:41:10.097393"
+  },
+  {
+    "title": "Python tools: uv",
+    "filename": "Python_tools__uv.md",
+    "original_url": "https://tds.s-anand.net/#/uv?id=python-tools-uv",
+    "downloaded_at": "2025-06-14T19:41:11.167901"
+  },
+  {
+    "title": "Data Storytelling",
+    "filename": "Data_Storytelling.md",
+    "original_url": "https://tds.s-anand.net/#/data-storytelling",
+    "downloaded_at": "2025-06-14T19:41:12.245986"
+  },
+  {
+    "title": "Data Storytelling",
+    "filename": "Data_Storytelling.md",
+    "original_url": "https://tds.s-anand.net/#/data-storytelling?id=data-storytelling",
+    "downloaded_at": "2025-06-14T19:41:13.335978"
+  },
+  {
+    "title": "Parsing JSON",
+    "filename": "Parsing_JSON.md",
+    "original_url": "https://tds.s-anand.net/#/parsing-json",
+    "downloaded_at": "2025-06-14T19:41:14.446427"
+  },
+  {
+    "title": "Parsing JSON",
+    "filename": "Parsing_JSON.md",
+    "original_url": "https://tds.s-anand.net/#/parsing-json?id=duckdb-json-processing",
+    "downloaded_at": "2025-06-14T19:41:15.538501"
+  },
+  {
+    "title": "Parsing JSON",
+    "filename": "Parsing_JSON.md",
+    "original_url": "https://tds.s-anand.net/#/parsing-json?id=parsing-json",
+    "downloaded_at": "2025-06-14T19:41:16.615964"
+  },
+  {
+    "title": "Parsing JSON",
+    "filename": "Parsing_JSON.md",
+    "original_url": "https://tds.s-anand.net/#/parsing-json?id=pandas-json-columns",
+    "downloaded_at": "2025-06-14T19:41:17.701011"
+  },
+  {
+    "title": "Parsing JSON",
+    "filename": "Parsing_JSON.md",
+    "original_url": "https://tds.s-anand.net/#/parsing-json?id=sql-json-functions",
+    "downloaded_at": "2025-06-14T19:41:18.776697"
+  },
+  {
+    "title": "Parsing JSON",
+    "filename": "Parsing_JSON.md",
+    "original_url": "https://tds.s-anand.net/#/parsing-json?id=jmespath-queries",
+    "downloaded_at": "2025-06-14T19:41:19.854557"
+  },
+  {
+    "title": "AI Terminal Tools: llm",
+    "filename": "AI_Terminal_Tools__llm.md",
+    "original_url": "https://tds.s-anand.net/#/llm",
+    "downloaded_at": "2025-06-14T19:41:20.920746"
+  },
+  {
+    "title": "AI Terminal Tools: llm",
+    "filename": "AI_Terminal_Tools__llm.md",
+    "original_url": "https://tds.s-anand.net/#/llm?id=llm-cli-llm",
+    "downloaded_at": "2025-06-14T19:41:21.990141"
+  },
+  {
+    "title": "AI Terminal Tools: llm",
+    "filename": "AI_Terminal_Tools__llm.md",
+    "original_url": "https://tds.s-anand.net/#/llm?id=key-features",
+    "downloaded_at": "2025-06-14T19:41:23.084150"
+  },
+  {
+    "title": "AI Terminal Tools: llm",
+    "filename": "AI_Terminal_Tools__llm.md",
+    "original_url": "https://tds.s-anand.net/#/llm?id=practical-uses",
+    "downloaded_at": "2025-06-14T19:41:24.153618"
+  },
+  {
+    "title": "AI Terminal Tools: llm",
+    "filename": "AI_Terminal_Tools__llm.md",
+    "original_url": "https://tds.s-anand.net/#/llm?id=basic-usage",
+    "downloaded_at": "2025-06-14T19:41:25.219922"
+  },
+  {
+    "title": "7. Data Visualization",
+    "filename": "7._Data_Visualization.md",
+    "original_url": "https://tds.s-anand.net/#/data-visualization",
+    "downloaded_at": "2025-06-14T19:41:26.282112"
+  },
+  {
+    "title": "Extracting Audio and Transcripts",
+    "filename": "Extracting_Audio_and_Transcripts.md",
+    "original_url": "https://tds.s-anand.net/#/extracting-audio-and-transcripts",
+    "downloaded_at": "2025-06-14T19:41:27.376986"
+  },
+  {
+    "title": "Extracting Audio and Transcripts",
+    "filename": "Extracting_Audio_and_Transcripts.md",
+    "original_url": "https://tds.s-anand.net/#/extracting-audio-and-transcripts?id=media-tools-yt-dlp",
+    "downloaded_at": "2025-06-14T19:41:28.464139"
+  },
+  {
+    "title": "Extracting Audio and Transcripts",
+    "filename": "Extracting_Audio_and_Transcripts.md",
+    "original_url": "https://tds.s-anand.net/#/extracting-audio-and-transcripts?id=extracting-audio-and-transcripts",
+    "downloaded_at": "2025-06-14T19:41:29.559797"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown",
+    "downloaded_at": "2025-06-14T19:41:30.660840"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=combined-crawling-and-conversion",
+    "downloaded_at": "2025-06-14T19:41:31.752220"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=choosing-the-right-tool",
+    "downloaded_at": "2025-06-14T19:41:32.837697"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=lynx",
+    "downloaded_at": "2025-06-14T19:41:33.935727"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=defuddle-cli",
+    "downloaded_at": "2025-06-14T19:41:35.021570"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=w3m",
+    "downloaded_at": "2025-06-14T19:41:36.105620"
+  },
+  {
+    "title": "2. Deployment Tools",
+    "filename": "2._Deployment_Tools.md",
+    "original_url": "https://tds.s-anand.net/#/deployment-tools",
+    "downloaded_at": "2025-06-14T19:41:37.187753"
+  },
+  {
+    "title": "2. Deployment Tools",
+    "filename": "2._Deployment_Tools.md",
+    "original_url": "https://tds.s-anand.net/#/deployment-tools?id=deployment-tools",
+    "downloaded_at": "2025-06-14T19:41:38.272017"
+  },
+  {
+    "title": "Visualizing Animated Data with Flourish",
+    "filename": "Visualizing_Animated_Data_with_Flourish.md",
+    "original_url": "https://tds.s-anand.net/#/visualizing-animated-data-with-flourish",
+    "downloaded_at": "2025-06-14T19:41:39.357448"
+  },
+  {
+    "title": "Visualizing Animated Data with Flourish",
+    "filename": "Visualizing_Animated_Data_with_Flourish.md",
+    "original_url": "https://tds.s-anand.net/#/visualizing-animated-data-with-flourish?id=visualizing-animated-data-with-flourish",
+    "downloaded_at": "2025-06-14T19:41:40.435876"
+  },
+  {
+    "title": "Authentication: Google Auth",
+    "filename": "Authentication__Google_Auth.md",
+    "original_url": "https://tds.s-anand.net/#/google-auth",
+    "downloaded_at": "2025-06-14T19:41:41.513398"
+  },
+  {
+    "title": "Topic modeling",
+    "filename": "Topic_modeling.md",
+    "original_url": "https://tds.s-anand.net/#/topic-modeling",
+    "downloaded_at": "2025-06-14T19:41:42.590094"
+  },
+  {
+    "title": "Topic modeling",
+    "filename": "Topic_modeling.md",
+    "original_url": "https://tds.s-anand.net/#/topic-modeling?id=topic-modeling",
+    "downloaded_at": "2025-06-14T19:41:43.672725"
+  },
+  {
+    "title": "1. Development Tools",
+    "filename": "1._Development_Tools.md",
+    "original_url": "https://tds.s-anand.net/#/development-tools",
+    "downloaded_at": "2025-06-14T19:41:44.753777"
+  },
+  {
+    "title": "1. Development Tools",
+    "filename": "1._Development_Tools.md",
+    "original_url": "https://tds.s-anand.net/#/development-tools?id=development-tools",
+    "downloaded_at": "2025-06-14T19:41:45.837985"
+  },
+  {
+    "title": "Browser: DevTools",
+    "filename": "Browser__DevTools.md",
+    "original_url": "https://tds.s-anand.net/#/devtools",
+    "downloaded_at": "2025-06-14T19:41:46.928216"
+  },
+  {
+    "title": "Browser: DevTools",
+    "filename": "Browser__DevTools.md",
+    "original_url": "https://tds.s-anand.net/#/devtools?id=browser-devtools",
+    "downloaded_at": "2025-06-14T19:41:48.009769"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown",
+    "downloaded_at": "2025-06-14T19:41:49.105269"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=other-libraries",
+    "downloaded_at": "2025-06-14T19:41:50.200793"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=mistral-ocr-api",
+    "downloaded_at": "2025-06-14T19:41:51.280072"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=azure-document-intelligence-api",
+    "downloaded_at": "2025-06-14T19:41:52.367677"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=comparison-of-pdf-to-markdown-tools",
+    "downloaded_at": "2025-06-14T19:41:53.450496"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=pymupdf4llm",
+    "downloaded_at": "2025-06-14T19:41:54.535693"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=unstructured",
+    "downloaded_at": "2025-06-14T19:41:55.636421"
+  },
+  {
+    "title": "Geospatial Analysis with QGIS",
+    "filename": "Geospatial_Analysis_with_QGIS.md",
+    "original_url": "https://tds.s-anand.net/#/geospatial-analysis-with-qgis",
+    "downloaded_at": "2025-06-14T19:41:56.724747"
+  },
+  {
+    "title": "Scraping: Live Sessions",
+    "filename": "Scraping__Live_Sessions.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-live-sessions",
+    "downloaded_at": "2025-06-14T19:41:57.818805"
+  },
+  {
+    "title": "Scraping: Live Sessions",
+    "filename": "Scraping__Live_Sessions.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-live-sessions?id=scraping-live-sessions",
+    "downloaded_at": "2025-06-14T19:41:58.907949"
+  },
+  {
+    "title": "Narratives with LLMs",
+    "filename": "Narratives_with_LLMs.md",
+    "original_url": "https://tds.s-anand.net/#/narratives-with-llms",
+    "downloaded_at": "2025-06-14T19:41:59.992780"
+  },
+  {
+    "title": "Editor: VS Code",
+    "filename": "Editor__VS_Code.md",
+    "original_url": "https://tds.s-anand.net/#/vscode",
+    "downloaded_at": "2025-06-14T19:42:01.076575"
+  },
+  {
+    "title": "Editor: VS Code",
+    "filename": "Editor__VS_Code.md",
+    "original_url": "https://tds.s-anand.net/#/vscode?id=editor-vs-code",
+    "downloaded_at": "2025-06-14T19:42:02.158654"
+  },
+  {
+    "title": "Interactive Notebooks: Marimo",
+    "filename": "Interactive_Notebooks__Marimo.md",
+    "original_url": "https://tds.s-anand.net/#/marimo",
+    "downloaded_at": "2025-06-14T19:42:03.255182"
+  },
+  {
+    "title": "Static hosting: GitHub Pages",
+    "filename": "Static_hosting__GitHub_Pages.md",
+    "original_url": "https://tds.s-anand.net/#/github-pages",
+    "downloaded_at": "2025-06-14T19:42:04.346253"
+  },
+  {
+    "title": "Static hosting: GitHub Pages",
+    "filename": "Static_hosting__GitHub_Pages.md",
+    "original_url": "https://tds.s-anand.net/#/github-pages?id=static-hosting-github-pages",
+    "downloaded_at": "2025-06-14T19:42:05.427572"
+  },
+  {
+    "title": "Visualizing Charts with Excel",
+    "filename": "Visualizing_Charts_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/visualizing-charts-with-excel",
+    "downloaded_at": "2025-06-14T19:42:06.510400"
+  },
+  {
+    "title": "Visualizing Charts with Excel",
+    "filename": "Visualizing_Charts_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/visualizing-charts-with-excel?id=visualizing-charts-with-excel",
+    "downloaded_at": "2025-06-14T19:42:07.592502"
+  },
+  {
+    "title": "3. Large Language Models",
+    "filename": "3._Large_Language_Models.md",
+    "original_url": "https://tds.s-anand.net/#/large-language-models",
+    "downloaded_at": "2025-06-14T19:42:08.687884"
+  },
+  {
+    "title": "3. Large Language Models",
+    "filename": "3._Large_Language_Models.md",
+    "original_url": "https://tds.s-anand.net/#/large-language-models?id=ai-proxy-jan-2025",
+    "downloaded_at": "2025-06-14T19:42:09.782801"
+  },
+  {
+    "title": "Scraping IMDb with JavaScript",
+    "filename": "Scraping_IMDb_with_JavaScript.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-imdb-with-javascript",
+    "downloaded_at": "2025-06-14T19:42:10.871205"
+  },
+  {
+    "title": "Scraping IMDb with JavaScript",
+    "filename": "Scraping_IMDb_with_JavaScript.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-imdb-with-javascript?id=scraping-imdb-with-javascript",
+    "downloaded_at": "2025-06-14T19:42:11.964566"
+  },
+  {
+    "title": "Data Analysis with Python",
+    "filename": "Data_Analysis_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/data-analysis-with-python",
+    "downloaded_at": "2025-06-14T19:42:13.047197"
+  },
+  {
+    "title": "Data Analysis with Python",
+    "filename": "Data_Analysis_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/data-analysis-with-python?id=data-analysis-with-python",
+    "downloaded_at": "2025-06-14T19:42:14.131186"
+  },
+  {
+    "title": "TDS GPT Reviewer",
+    "filename": "TDS_GPT_Reviewer.md",
+    "original_url": "https://tds.s-anand.net/#/tds-gpt-reviewer",
+    "downloaded_at": "2025-06-14T19:42:15.218573"
+  },
+  {
+    "title": "Vision Models",
+    "filename": "Vision_Models.md",
+    "original_url": "https://tds.s-anand.net/#/vision-models",
+    "downloaded_at": "2025-06-14T19:42:16.318496"
+  },
+  {
+    "title": "Vision Models",
+    "filename": "Vision_Models.md",
+    "original_url": "https://tds.s-anand.net/#/vision-models?id=vision-models",
+    "downloaded_at": "2025-06-14T19:42:17.412564"
+  },
+  {
+    "title": "Vision Models",
+    "filename": "Vision_Models.md",
+    "original_url": "https://tds.s-anand.net/#/base64-image",
+    "downloaded_at": "2025-06-14T19:42:18.493131"
+  },
+  {
+    "title": "JavaScript tools: npx",
+    "filename": "JavaScript_tools__npx.md",
+    "original_url": "https://tds.s-anand.net/#/npx",
+    "downloaded_at": "2025-06-14T19:42:19.582913"
+  },
+  {
+    "title": "JavaScript tools: npx",
+    "filename": "JavaScript_tools__npx.md",
+    "original_url": "https://tds.s-anand.net/#/npx?id=javascript-tools-npx",
+    "downloaded_at": "2025-06-14T19:42:20.682270"
+  },
+  {
+    "title": "Crawling with the CLI",
+    "filename": "Crawling_with_the_CLI.md",
+    "original_url": "https://tds.s-anand.net/#/crawling-cli",
+    "downloaded_at": "2025-06-14T19:42:21.791113"
+  },
+  {
+    "title": "Crawling with the CLI",
+    "filename": "Crawling_with_the_CLI.md",
+    "original_url": "https://tds.s-anand.net/#/crawling-cli?id=wpull",
+    "downloaded_at": "2025-06-14T19:42:22.887055"
+  },
+  {
+    "title": "Crawling with the CLI",
+    "filename": "Crawling_with_the_CLI.md",
+    "original_url": "https://tds.s-anand.net/#/crawling-cli?id=httrack",
+    "downloaded_at": "2025-06-14T19:42:23.987282"
+  },
+  {
+    "title": "Scraping with Google Sheets",
+    "filename": "Scraping_with_Google_Sheets.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-with-google-sheets",
+    "downloaded_at": "2025-06-14T19:42:25.082092"
+  },
+  {
+    "title": "Scraping with Google Sheets",
+    "filename": "Scraping_with_Google_Sheets.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-with-google-sheets?id=scraping-with-google-sheets",
+    "downloaded_at": "2025-06-14T19:42:26.183997"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell",
+    "downloaded_at": "2025-06-14T19:42:27.405562"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=data-preparation-in-the-shell",
+    "downloaded_at": "2025-06-14T19:42:28.572302"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=find-bots",
+    "downloaded_at": "2025-06-14T19:42:29.763576"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=count-requests",
+    "downloaded_at": "2025-06-14T19:42:30.953425"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=more-commands",
+    "downloaded_at": "2025-06-14T19:42:32.142892"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=download-logs",
+    "downloaded_at": "2025-06-14T19:42:33.336848"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=convert-logs-to-csv",
+    "downloaded_at": "2025-06-14T19:42:34.533215"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=preview-the-logs",
+    "downloaded_at": "2025-06-14T19:42:35.766890"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README",
+    "downloaded_at": "2025-06-14T19:42:36.921383"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README?id=evaluations-are-mostly-open-internet",
+    "downloaded_at": "2025-06-14T19:42:38.044476"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README?id=constantly-check-communications",
+    "downloaded_at": "2025-06-14T19:42:39.160287"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README?id=we-cover-7-modules-in-12-weeks",
+    "downloaded_at": "2025-06-14T19:42:40.265658"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README?id=course-links",
+    "downloaded_at": "2025-06-14T19:42:41.381978"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README?id=tools-in-data-science-may-2025",
+    "downloaded_at": "2025-06-14T19:42:42.500275"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README?id=notes",
+    "downloaded_at": "2025-06-14T19:42:43.618659"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README?id=anyone-can-audit-this-course",
+    "downloaded_at": "2025-06-14T19:42:44.736280"
+  },
+  {
+    "title": "TDS TA Instructions",
+    "filename": "TDS_TA_Instructions.md",
+    "original_url": "https://tds.s-anand.net/#/tds-ta-instructions",
+    "downloaded_at": "2025-06-14T19:42:45.835413"
+  },
+  {
+    "title": "Network Analysis in Python",
+    "filename": "Network_Analysis_in_Python.md",
+    "original_url": "https://tds.s-anand.net/#/network-analysis-in-python",
+    "downloaded_at": "2025-06-14T19:42:46.941909"
+  },
+  {
+    "title": "Network Analysis in Python",
+    "filename": "Network_Analysis_in_Python.md",
+    "original_url": "https://tds.s-anand.net/#/network-analysis-in-python?id=network-analysis-in-python",
+    "downloaded_at": "2025-06-14T19:42:48.038892"
+  },
+  {
+    "title": "Web Automation with Playwright",
+    "filename": "Web_Automation_with_Playwright.md",
+    "original_url": "https://tds.s-anand.net/#/web-automation-with-playwright",
+    "downloaded_at": "2025-06-14T19:42:49.142158"
+  },
+  {
+    "title": "Web Automation with Playwright",
+    "filename": "Web_Automation_with_Playwright.md",
+    "original_url": "https://tds.s-anand.net/#/web-automation-with-playwright?id=example-scraping-a-jsrendered-site",
+    "downloaded_at": "2025-06-14T19:42:50.238436"
+  },
+  {
+    "title": "Web Automation with Playwright",
+    "filename": "Web_Automation_with_Playwright.md",
+    "original_url": "https://tds.s-anand.net/#/web-automation-with-playwright?id=web-scraping-with-playwright-in-python",
+    "downloaded_at": "2025-06-14T19:42:51.338960"
+  },
+  {
+    "title": "REST APIs",
+    "filename": "REST_APIs.md",
+    "original_url": "https://tds.s-anand.net/#/rest-apis",
+    "downloaded_at": "2025-06-14T19:42:52.447967"
+  },
+  {
+    "title": "REST APIs",
+    "filename": "REST_APIs.md",
+    "original_url": "https://tds.s-anand.net/#/rest-apis?id=rest-apis",
+    "downloaded_at": "2025-06-14T19:42:53.563715"
+  },
+  {
+    "title": "Containers: Docker, Podman",
+    "filename": "Containers__Docker,_Podman.md",
+    "original_url": "https://tds.s-anand.net/#/docker",
+    "downloaded_at": "2025-06-14T19:42:54.672128"
+  },
+  {
+    "title": "Containers: Docker, Podman",
+    "filename": "Containers__Docker,_Podman.md",
+    "original_url": "https://tds.s-anand.net/#/docker?id=containers-docker-podman",
+    "downloaded_at": "2025-06-14T19:42:55.777721"
+  },
+  {
+    "title": "Wikipedia Data with Python",
+    "filename": "Wikipedia_Data_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/wikipedia-data-with-python",
+    "downloaded_at": "2025-06-14T19:42:56.875811"
+  },
+  {
+    "title": "Tunneling: ngrok",
+    "filename": "Tunneling__ngrok.md",
+    "original_url": "https://tds.s-anand.net/#/ngrok",
+    "downloaded_at": "2025-06-14T19:42:57.970469"
+  },
+  {
+    "title": "5. Data Preparation",
+    "filename": "5._Data_Preparation.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation",
+    "downloaded_at": "2025-06-14T19:42:59.076433"
+  },
+  {
+    "title": "5. Data Preparation",
+    "filename": "5._Data_Preparation.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation?id=data-preparation",
+    "downloaded_at": "2025-06-14T19:43:00.178234"
+  },
+  {
+    "title": "Database: SQLite",
+    "filename": "Database__SQLite.md",
+    "original_url": "https://tds.s-anand.net/#/sqlite",
+    "downloaded_at": "2025-06-14T19:43:01.288289"
+  },
+  {
+    "title": "Database: SQLite",
+    "filename": "Database__SQLite.md",
+    "original_url": "https://tds.s-anand.net/#/sqlite?id=database-sqlite",
+    "downloaded_at": "2025-06-14T19:43:02.420012"
+  },
+  {
+    "title": "Data Preparation in the Editor",
+    "filename": "Data_Preparation_in_the_Editor.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-editor",
+    "downloaded_at": "2025-06-14T19:43:03.525217"
+  },
+  {
+    "title": "LLM Agents",
+    "filename": "LLM_Agents.md",
+    "original_url": "https://tds.s-anand.net/#/llm-agents",
+    "downloaded_at": "2025-06-14T19:43:04.688995"
+  },
+  {
+    "title": "LLM Agents",
+    "filename": "LLM_Agents.md",
+    "original_url": "https://tds.s-anand.net/#/llm-agents?id=project-ideas",
+    "downloaded_at": "2025-06-14T19:43:05.797026"
+  },
+  {
+    "title": "LLM Agents",
+    "filename": "LLM_Agents.md",
+    "original_url": "https://tds.s-anand.net/#/llm-agents?id=command-line-agent-example",
+    "downloaded_at": "2025-06-14T19:43:06.901057"
+  },
+  {
+    "title": "LLM Agents",
+    "filename": "LLM_Agents.md",
+    "original_url": "https://tds.s-anand.net/#/llm-agents?id=real-world-applications",
+    "downloaded_at": "2025-06-14T19:43:08.010775"
+  },
+  {
+    "title": "LLM Agents",
+    "filename": "LLM_Agents.md",
+    "original_url": "https://tds.s-anand.net/#/llm-agents?id=best-practices",
+    "downloaded_at": "2025-06-14T19:43:09.119772"
+  },
+  {
+    "title": "LLM Agents",
+    "filename": "LLM_Agents.md",
+    "original_url": "https://tds.s-anand.net/#/llm-agents?id=agent-architectures",
+    "downloaded_at": "2025-06-14T19:43:10.230392"
+  },
+  {
+    "title": "LLM Agents",
+    "filename": "LLM_Agents.md",
+    "original_url": "https://tds.s-anand.net/#/llm-agents?id=what-makes-an-agent",
+    "downloaded_at": "2025-06-14T19:43:11.332732"
+  },
+  {
+    "title": "LLM Agents",
+    "filename": "LLM_Agents.md",
+    "original_url": "https://tds.s-anand.net/#/llm-agents?id=limitations-and-challenges",
+    "downloaded_at": "2025-06-14T19:43:12.445578"
+  },
+  {
+    "title": "LLM Agents",
+    "filename": "LLM_Agents.md",
+    "original_url": "https://tds.s-anand.net/#/llm-agents?id=llm-agents-building-ai-systems-that-can-think-and-act",
+    "downloaded_at": "2025-06-14T19:43:13.561980"
+  },
+  {
+    "title": "Images: Compression",
+    "filename": "Images__Compression.md",
+    "original_url": "https://tds.s-anand.net/#/image-compression",
+    "downloaded_at": "2025-06-14T19:43:14.666973"
+  },
+  {
+    "title": "Images: Compression",
+    "filename": "Images__Compression.md",
+    "original_url": "https://tds.s-anand.net/#/image-compression?id=images-compression",
+    "downloaded_at": "2025-06-14T19:43:15.774581"
+  },
+  {
+    "title": "Scheduled Scraping with GitHub Actions",
+    "filename": "Scheduled_Scraping_with_GitHub_Actions.md",
+    "original_url": "https://tds.s-anand.net/#/scheduled-scraping-with-github-actions",
+    "downloaded_at": "2025-06-14T19:43:16.901231"
+  },
+  {
+    "title": "Scheduled Scraping with GitHub Actions",
+    "filename": "Scheduled_Scraping_with_GitHub_Actions.md",
+    "original_url": "https://tds.s-anand.net/#/scheduled-scraping-with-github-actions?id=scheduled-scraping-with-github-actions",
+    "downloaded_at": "2025-06-14T19:43:18.015729"
+  },
+  {
+    "title": "Scheduled Scraping with GitHub Actions",
+    "filename": "Scheduled_Scraping_with_GitHub_Actions.md",
+    "original_url": "https://tds.s-anand.net/#/scheduled-scraping-with-github-actions?id=key-concepts",
+    "downloaded_at": "2025-06-14T19:43:19.136103"
+  },
+  {
+    "title": "Scheduled Scraping with GitHub Actions",
+    "filename": "Scheduled_Scraping_with_GitHub_Actions.md",
+    "original_url": "https://tds.s-anand.net/#/scheduled-scraping-with-github-actions?id=best-practices",
+    "downloaded_at": "2025-06-14T19:43:20.253515"
+  },
+  {
+    "title": "Scheduled Scraping with GitHub Actions",
+    "filename": "Scheduled_Scraping_with_GitHub_Actions.md",
+    "original_url": "https://tds.s-anand.net/#/scheduled-scraping-with-github-actions?id=tools-and-resources",
+    "downloaded_at": "2025-06-14T19:43:21.371402"
+  },
+  {
+    "title": "LLM Website Scraping",
+    "filename": "LLM_Website_Scraping.md",
+    "original_url": "https://tds.s-anand.net/#/llm-website-scraping",
+    "downloaded_at": "2025-06-14T19:43:22.477426"
+  },
+  {
+    "title": "LLM Website Scraping",
+    "filename": "LLM_Website_Scraping.md",
+    "original_url": "https://tds.s-anand.net/#/llm-website-scraping?id=llm-website-scraping",
+    "downloaded_at": "2025-06-14T19:43:23.587898"
+  },
+  {
+    "title": "DevContainers: GitHub Codespaces",
+    "filename": "DevContainers__GitHub_Codespaces.md",
+    "original_url": "https://tds.s-anand.net/#/github-codespaces",
+    "downloaded_at": "2025-06-14T19:43:24.706943"
+  },
+  {
+    "title": "DevContainers: GitHub Codespaces",
+    "filename": "DevContainers__GitHub_Codespaces.md",
+    "original_url": "https://tds.s-anand.net/#/github-codespaces?id=ide-github-codespaces",
+    "downloaded_at": "2025-06-14T19:43:25.813675"
+  },
+  {
+    "title": "DevContainers: GitHub Codespaces",
+    "filename": "DevContainers__GitHub_Codespaces.md",
+    "original_url": "https://tds.s-anand.net/#/github-codespaces?id=quick-setup",
+    "downloaded_at": "2025-06-14T19:43:26.927386"
+  },
+  {
+    "title": "Unicode",
+    "filename": "Unicode.md",
+    "original_url": "https://tds.s-anand.net/#/unicode",
+    "downloaded_at": "2025-06-14T19:43:28.042733"
+  },
+  {
+    "title": "Unicode",
+    "filename": "Unicode.md",
+    "original_url": "https://tds.s-anand.net/#/unicode?id=unicode",
+    "downloaded_at": "2025-06-14T19:43:29.160312"
+  },
+  {
+    "title": "LLM Video Screen-Scraping",
+    "filename": "LLM_Video_Screen-Scraping.md",
+    "original_url": "https://tds.s-anand.net/#/llm-video-screen-scraping",
+    "downloaded_at": "2025-06-14T19:43:30.277506"
+  },
+  {
+    "title": "LLM Video Screen-Scraping",
+    "filename": "LLM_Video_Screen-Scraping.md",
+    "original_url": "https://tds.s-anand.net/#/llm-video-screen-scraping?id=quick-start-example",
+    "downloaded_at": "2025-06-14T19:43:31.388284"
+  },
+  {
+    "title": "LLM Video Screen-Scraping",
+    "filename": "LLM_Video_Screen-Scraping.md",
+    "original_url": "https://tds.s-anand.net/#/llm-video-screen-scraping?id=llm-video-screen-scraping",
+    "downloaded_at": "2025-06-14T19:43:32.505924"
+  },
+  {
+    "title": "LLM Video Screen-Scraping",
+    "filename": "LLM_Video_Screen-Scraping.md",
+    "original_url": "https://tds.s-anand.net/#/llm-video-screen-scraping?id=best-practices",
+    "downloaded_at": "2025-06-14T19:43:33.618640"
+  },
+  {
+    "title": "LLM Video Screen-Scraping",
+    "filename": "LLM_Video_Screen-Scraping.md",
+    "original_url": "https://tds.s-anand.net/#/llm-video-screen-scraping?id=use-cases",
+    "downloaded_at": "2025-06-14T19:43:34.737196"
+  },
+  {
+    "title": "Vector databases",
+    "filename": "Vector_databases.md",
+    "original_url": "https://tds.s-anand.net/#/vector-databases",
+    "downloaded_at": "2025-06-14T19:43:35.891355"
+  },
+  {
+    "title": "Vector databases",
+    "filename": "Vector_databases.md",
+    "original_url": "https://tds.s-anand.net/#/vector-databases?id=chromadb",
+    "downloaded_at": "2025-06-14T19:43:37.027028"
+  },
+  {
+    "title": "Vector databases",
+    "filename": "Vector_databases.md",
+    "original_url": "https://tds.s-anand.net/#/vector-databases?id=lancedb",
+    "downloaded_at": "2025-06-14T19:43:38.178047"
+  },
+  {
+    "title": "Vector databases",
+    "filename": "Vector_databases.md",
+    "original_url": "https://tds.s-anand.net/#/vector-databases?id=duckdb",
+    "downloaded_at": "2025-06-14T19:43:39.316158"
+  },
+  {
+    "title": "Vector databases",
+    "filename": "Vector_databases.md",
+    "original_url": "https://tds.s-anand.net/#/vector-databases?id=vector-databases",
+    "downloaded_at": "2025-06-14T19:43:40.461480"
+  },
+  {
+    "title": "Cleaning Data with OpenRefine",
+    "filename": "Cleaning_Data_with_OpenRefine.md",
+    "original_url": "https://tds.s-anand.net/#/cleaning-data-with-openrefine",
+    "downloaded_at": "2025-06-14T19:43:41.575708"
+  },
+  {
+    "title": "Cleaning Data with OpenRefine",
+    "filename": "Cleaning_Data_with_OpenRefine.md",
+    "original_url": "https://tds.s-anand.net/#/cleaning-data-with-openrefine?id=cleaning-data-with-openrefine",
+    "downloaded_at": "2025-06-14T19:43:42.694899"
+  },
+  {
+    "title": "JSON",
+    "filename": "JSON.md",
+    "original_url": "https://tds.s-anand.net/#/json",
+    "downloaded_at": "2025-06-14T19:43:43.834474"
+  },
+  {
+    "title": "JSON",
+    "filename": "JSON.md",
+    "original_url": "https://tds.s-anand.net/#/json?id=json",
+    "downloaded_at": "2025-06-14T19:43:44.948967"
+  },
+  {
+    "title": "Scraping with Excel",
+    "filename": "Scraping_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-with-excel",
+    "downloaded_at": "2025-06-14T19:43:46.062269"
+  },
+  {
+    "title": "Scraping with Excel",
+    "filename": "Scraping_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-with-excel?id=scraping-with-excel",
+    "downloaded_at": "2025-06-14T19:43:47.178158"
+  },
+  {
+    "title": "Visualizing Forecasts with Excel",
+    "filename": "Visualizing_Forecasts_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/visualizing-forecasts-with-excel",
+    "downloaded_at": "2025-06-14T19:43:48.295129"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb",
+    "downloaded_at": "2025-06-14T19:43:49.445970"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=conditional-logic-and-binning",
+    "downloaded_at": "2025-06-14T19:43:50.589796"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=date-parsing-and-conversion",
+    "downloaded_at": "2025-06-14T19:43:51.739247"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=handling-missing-values",
+    "downloaded_at": "2025-06-14T19:43:52.870205"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=filtering-rows-and-dropping-columns",
+    "downloaded_at": "2025-06-14T19:43:54.025773"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=exploratory-data-analysis",
+    "downloaded_at": "2025-06-14T19:43:55.173613"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=reading-messy-csv",
+    "downloaded_at": "2025-06-14T19:43:56.334187"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=create-a-messy-csv",
+    "downloaded_at": "2025-06-14T19:43:57.479500"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=create-a-sample-dataset",
+    "downloaded_at": "2025-06-14T19:43:58.649833"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=regex-search-and-replace",
+    "downloaded_at": "2025-06-14T19:43:59.872842"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=processing-in-chunks",
+    "downloaded_at": "2025-06-14T19:44:01.078701"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=derived-columns",
+    "downloaded_at": "2025-06-14T19:44:02.252124"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=converting-data-to-other-formats",
+    "downloaded_at": "2025-06-14T19:44:03.402476"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=create-a-big-csv",
+    "downloaded_at": "2025-06-14T19:44:04.554552"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=summaries-and-pivots",
+    "downloaded_at": "2025-06-14T19:44:05.700367"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=data-preparation-in-duckdb",
+    "downloaded_at": "2025-06-14T19:44:06.833520"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=working-with-multiple-formats",
+    "downloaded_at": "2025-06-14T19:44:07.982532"
+  },
+  {
+    "title": "Data Preparation in DuckDB",
+    "filename": "Data_Preparation_in_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-duckdb?id=string-operations",
+    "downloaded_at": "2025-06-14T19:44:09.147022"
+  },
+  {
+    "title": "Terminal: Bash",
+    "filename": "Terminal__Bash.md",
+    "original_url": "https://tds.s-anand.net/#/bash",
+    "downloaded_at": "2025-06-14T19:44:10.279568"
+  },
+  {
+    "title": "Terminal: Bash",
+    "filename": "Terminal__Bash.md",
+    "original_url": "https://tds.s-anand.net/#/bash?id=terminal-bash",
+    "downloaded_at": "2025-06-14T19:44:11.410411"
+  },
+  {
+    "title": "Forecasting with Excel",
+    "filename": "Forecasting_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/forecasting-with-excel",
+    "downloaded_at": "2025-06-14T19:44:12.540489"
+  },
+  {
+    "title": "Forecasting with Excel",
+    "filename": "Forecasting_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/forecasting-with-excel?id=forecasting-with-excel",
+    "downloaded_at": "2025-06-14T19:44:13.672521"
+  },
+  {
+    "title": "Embeddings",
+    "filename": "Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/embeddings",
+    "downloaded_at": "2025-06-14T19:44:14.811883"
+  },
+  {
+    "title": "Embeddings",
+    "filename": "Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/embeddings?id=embeddings-openai-and-local-models",
+    "downloaded_at": "2025-06-14T19:44:15.944285"
+  },
+  {
+    "title": "Embeddings",
+    "filename": "Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/embeddings?id=local-embeddings",
+    "downloaded_at": "2025-06-14T19:44:17.116647"
+  },
+  {
+    "title": "Embeddings",
+    "filename": "Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/embeddings?id=openai-embeddings",
+    "downloaded_at": "2025-06-14T19:44:18.259237"
+  },
+  {
+    "title": "BBC Weather API with Python",
+    "filename": "BBC_Weather_API_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/bbc-weather-api-with-python",
+    "downloaded_at": "2025-06-14T19:44:19.399979"
+  },
+  {
+    "title": "BBC Weather API with Python",
+    "filename": "BBC_Weather_API_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/bbc-weather-api-with-python?id=bbc-weather-data-with-python",
+    "downloaded_at": "2025-06-14T19:44:20.543944"
+  },
+  {
+    "title": "BBC Weather API with Python",
+    "filename": "BBC_Weather_API_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/bbc-weather-api-with-python?id=bbc-weather-location-id-with-python",
+    "downloaded_at": "2025-06-14T19:44:21.674816"
+  },
+  {
+    "title": "Nominatim API with Python",
+    "filename": "Nominatim_API_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/nominatim-api-with-python",
+    "downloaded_at": "2025-06-14T19:44:22.805019"
+  },
+  {
+    "title": "Nominatim API with Python",
+    "filename": "Nominatim_API_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/nominatim-api-with-python?id=nominatim-api-with-python",
+    "downloaded_at": "2025-06-14T19:44:23.932907"
+  },
+  {
+    "title": "Serverless hosting: Vercel",
+    "filename": "Serverless_hosting__Vercel.md",
+    "original_url": "https://tds.s-anand.net/#/vercel",
+    "downloaded_at": "2025-06-14T19:44:25.058688"
+  },
+  {
+    "title": "Serverless hosting: Vercel",
+    "filename": "Serverless_hosting__Vercel.md",
+    "original_url": "https://tds.s-anand.net/#/vercel?id=videos",
+    "downloaded_at": "2025-06-14T19:44:26.196933"
+  },
+  {
+    "title": "Serverless hosting: Vercel",
+    "filename": "Serverless_hosting__Vercel.md",
+    "original_url": "https://tds.s-anand.net/#/vercel?id=serverless-hosting-vercel",
+    "downloaded_at": "2025-06-14T19:44:27.324832"
+  },
+  {
+    "title": "Regression with Excel",
+    "filename": "Regression_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/regression-with-excel",
+    "downloaded_at": "2025-06-14T19:44:28.460885"
+  },
+  {
+    "title": "Regression with Excel",
+    "filename": "Regression_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/regression-with-excel?id=regression-with-excel",
+    "downloaded_at": "2025-06-14T19:44:29.596080"
+  },
+  {
+    "title": "Data Cleansing in Excel",
+    "filename": "Data_Cleansing_in_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/data-cleansing-in-excel",
+    "downloaded_at": "2025-06-14T19:44:30.724423"
+  },
+  {
+    "title": "Data Cleansing in Excel",
+    "filename": "Data_Cleansing_in_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/data-cleansing-in-excel?id=data-cleansing-in-excel",
+    "downloaded_at": "2025-06-14T19:44:31.849376"
+  },
+  {
+    "title": "Visualizing Network Data with Kumu",
+    "filename": "Visualizing_Network_Data_with_Kumu.md",
+    "original_url": "https://tds.s-anand.net/#/visualizing-network-data-with-kumu",
+    "downloaded_at": "2025-06-14T19:44:32.984650"
+  },
+  {
+    "title": "Visualizing Network Data with Kumu",
+    "filename": "Visualizing_Network_Data_with_Kumu.md",
+    "original_url": "https://tds.s-anand.net/#/visualizing-network-data-with-kumu?id=visualizing-network-data-with-kumu",
+    "downloaded_at": "2025-06-14T19:44:34.122562"
+  },
+  {
+    "title": "Visualizing Forecasts with Excel",
+    "filename": "Visualizing_Forecasts_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/visualizing-forecasts-with-excel?id=visualizing-forecasts-with-excel",
+    "downloaded_at": "2025-06-14T19:44:35.247032"
+  },
+  {
+    "title": "LLM Video Screen-Scraping",
+    "filename": "LLM_Video_Screen-Scraping.md",
+    "original_url": "https://tds.s-anand.net/#/llm-video-screen-scraping?id=cost-calculation",
+    "downloaded_at": "2025-06-14T19:44:36.368723"
+  },
+  {
+    "title": "DevContainers: GitHub Codespaces",
+    "filename": "DevContainers__GitHub_Codespaces.md",
+    "original_url": "https://tds.s-anand.net/#/github-codespaces?id=features-to-explore",
+    "downloaded_at": "2025-06-14T19:44:37.478356"
+  },
+  {
+    "title": "Scheduled Scraping with GitHub Actions",
+    "filename": "Scheduled_Scraping_with_GitHub_Actions.md",
+    "original_url": "https://tds.s-anand.net/#/scheduled-scraping-with-github-actions?id=video-tutorials",
+    "downloaded_at": "2025-06-14T19:44:38.599784"
+  },
+  {
+    "title": "Data Preparation in the Editor",
+    "filename": "Data_Preparation_in_the_Editor.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-editor?id=data-preparation-in-the-editor",
+    "downloaded_at": "2025-06-14T19:44:39.703158"
+  },
+  {
+    "title": "Tunneling: ngrok",
+    "filename": "Tunneling__ngrok.md",
+    "original_url": "https://tds.s-anand.net/#/ngrok?id=tunneling-ngrok",
+    "downloaded_at": "2025-06-14T19:44:40.812874"
+  },
+  {
+    "title": "Wikipedia Data with Python",
+    "filename": "Wikipedia_Data_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/wikipedia-data-with-python?id=wikipedia-data-with-python",
+    "downloaded_at": "2025-06-14T19:44:41.906124"
+  },
+  {
+    "title": "TDS TA Instructions",
+    "filename": "TDS_TA_Instructions.md",
+    "original_url": "https://tds.s-anand.net/#/tds-ta-instructions?id=tds-ta-instructions",
+    "downloaded_at": "2025-06-14T19:44:43.003507"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README?id=past-course-content",
+    "downloaded_at": "2025-06-14T19:44:44.112590"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README?id=may-2025-links",
+    "downloaded_at": "2025-06-14T19:44:45.233782"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/README?id=people-who-help-you",
+    "downloaded_at": "2025-06-14T19:44:46.342184"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=find-lines-matching-an-ip",
+    "downloaded_at": "2025-06-14T19:44:47.537840"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=list-files",
+    "downloaded_at": "2025-06-14T19:44:48.702432"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=extract-the-ip-column",
+    "downloaded_at": "2025-06-14T19:44:49.858470"
+  },
+  {
+    "title": "Data Preparation in the Shell",
+    "filename": "Data_Preparation_in_the_Shell.md",
+    "original_url": "https://tds.s-anand.net/#/data-preparation-in-the-shell?id=uncompress-the-log-file",
+    "downloaded_at": "2025-06-14T19:44:51.017105"
+  },
+  {
+    "title": "Crawling with the CLI",
+    "filename": "Crawling_with_the_CLI.md",
+    "original_url": "https://tds.s-anand.net/#/crawling-cli?id=robotstxt",
+    "downloaded_at": "2025-06-14T19:44:52.116661"
+  },
+  {
+    "title": "Crawling with the CLI",
+    "filename": "Crawling_with_the_CLI.md",
+    "original_url": "https://tds.s-anand.net/#/crawling-cli?id=crawling-with-the-cli",
+    "downloaded_at": "2025-06-14T19:44:53.249109"
+  },
+  {
+    "title": "TDS GPT Reviewer",
+    "filename": "TDS_GPT_Reviewer.md",
+    "original_url": "https://tds.s-anand.net/#/tds-gpt-reviewer?id=content-creation-prompts",
+    "downloaded_at": "2025-06-14T19:44:54.333254"
+  },
+  {
+    "title": "TDS GPT Reviewer",
+    "filename": "TDS_GPT_Reviewer.md",
+    "original_url": "https://tds.s-anand.net/#/tds-gpt-reviewer?id=tds-gpt-reviewer",
+    "downloaded_at": "2025-06-14T19:44:55.421974"
+  },
+  {
+    "title": "3. Large Language Models",
+    "filename": "3._Large_Language_Models.md",
+    "original_url": "https://tds.s-anand.net/#/large-language-models?id=large-language-models",
+    "downloaded_at": "2025-06-14T19:44:56.504336"
+  },
+  {
+    "title": "Interactive Notebooks: Marimo",
+    "filename": "Interactive_Notebooks__Marimo.md",
+    "original_url": "https://tds.s-anand.net/#/marimo?id=interactive-notebooks-marimo",
+    "downloaded_at": "2025-06-14T19:44:57.582583"
+  },
+  {
+    "title": "Narratives with LLMs",
+    "filename": "Narratives_with_LLMs.md",
+    "original_url": "https://tds.s-anand.net/#/narratives-with-llms?id=narratives-with-llms",
+    "downloaded_at": "2025-06-14T19:44:58.666758"
+  },
+  {
+    "title": "Geospatial Analysis with QGIS",
+    "filename": "Geospatial_Analysis_with_QGIS.md",
+    "original_url": "https://tds.s-anand.net/#/geospatial-analysis-with-qgis?id=geospatial-analysis-with-qgis",
+    "downloaded_at": "2025-06-14T19:44:59.739708"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=markitdown",
+    "downloaded_at": "2025-06-14T19:45:00.827436"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=grobid",
+    "downloaded_at": "2025-06-14T19:45:01.917726"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=tips-for-optimal-pdf-conversion",
+    "downloaded_at": "2025-06-14T19:45:03.002007"
+  },
+  {
+    "title": "Convert PDFs to Markdown",
+    "filename": "Convert_PDFs_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=converting-pdfs-to-markdown",
+    "downloaded_at": "2025-06-14T19:45:04.090481"
+  },
+  {
+    "title": "Authentication: Google Auth",
+    "filename": "Authentication__Google_Auth.md",
+    "original_url": "https://tds.s-anand.net/#/google-auth?id=google-authentication-with-fastapi",
+    "downloaded_at": "2025-06-14T19:45:05.175065"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=comparison",
+    "downloaded_at": "2025-06-14T19:45:06.263884"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=converting-html-to-markdown",
+    "downloaded_at": "2025-06-14T19:45:07.359183"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=markdown-crawler",
+    "downloaded_at": "2025-06-14T19:45:08.453000"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=pandoc",
+    "downloaded_at": "2025-06-14T19:45:09.542014"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=optimize-batch-processing",
+    "downloaded_at": "2025-06-14T19:45:10.630631"
+  },
+  {
+    "title": "Convert HTML to Markdown",
+    "filename": "Convert_HTML_to_Markdown.md",
+    "original_url": "https://tds.s-anand.net/#/convert-html-to-markdown?id=crawl4ai",
+    "downloaded_at": "2025-06-14T19:45:11.730133"
+  },
+  {
+    "title": "Extracting Audio and Transcripts",
+    "filename": "Extracting_Audio_and_Transcripts.md",
+    "original_url": "https://tds.s-anand.net/#/extracting-audio-and-transcripts?id=whisper-transcription",
+    "downloaded_at": "2025-06-14T19:45:12.821679"
+  },
+  {
+    "title": "Extracting Audio and Transcripts",
+    "filename": "Extracting_Audio_and_Transcripts.md",
+    "original_url": "https://tds.s-anand.net/#/extracting-audio-and-transcripts?id=media-processing-ffmpeg",
+    "downloaded_at": "2025-06-14T19:45:13.912750"
+  },
+  {
+    "title": "Extracting Audio and Transcripts",
+    "filename": "Extracting_Audio_and_Transcripts.md",
+    "original_url": "https://tds.s-anand.net/#/extracting-audio-and-transcripts?id=gemini-transcription",
+    "downloaded_at": "2025-06-14T19:45:15.012548"
+  },
+  {
+    "title": "7. Data Visualization",
+    "filename": "7._Data_Visualization.md",
+    "original_url": "https://tds.s-anand.net/#/data-visualization?id=data-visualization",
+    "downloaded_at": "2025-06-14T19:45:16.081007"
+  },
+  {
+    "title": "Parsing JSON",
+    "filename": "Parsing_JSON.md",
+    "original_url": "https://tds.s-anand.net/#/parsing-json?id=streaming-with-ijson",
+    "downloaded_at": "2025-06-14T19:45:17.174554"
+  },
+  {
+    "title": "Parsing JSON",
+    "filename": "Parsing_JSON.md",
+    "original_url": "https://tds.s-anand.net/#/parsing-json?id=command-line-json-processing-with-jq",
+    "downloaded_at": "2025-06-14T19:45:18.259590"
+  },
+  {
+    "title": "Data Aggregation in Excel",
+    "filename": "Data_Aggregation_in_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/data-aggregation-in-excel?id=data-aggregation-in-excel",
+    "downloaded_at": "2025-06-14T19:45:19.325947"
+  },
+  {
+    "title": "CSS Selectors",
+    "filename": "CSS_Selectors.md",
+    "original_url": "https://tds.s-anand.net/#/css-selectors?id=css-selectors",
+    "downloaded_at": "2025-06-14T19:45:20.389950"
+  },
+  {
+    "title": "Scraping PDFs with Tabula",
+    "filename": "Scraping_PDFs_with_Tabula.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-pdfs-with-tabula?id=scraping-pdfs-with-tabula",
+    "downloaded_at": "2025-06-14T19:45:21.459228"
+  },
+  {
+    "title": "LLM Evals",
+    "filename": "LLM_Evals.md",
+    "original_url": "https://tds.s-anand.net/#/llm-evals?id=llm-evaluations-with-promptfoo",
+    "downloaded_at": "2025-06-14T19:45:22.526847"
+  },
+  {
+    "title": "Data Transformation with dbt",
+    "filename": "Data_Transformation_with_dbt.md",
+    "original_url": "https://tds.s-anand.net/#/dbt?id=data-transformation-with-dbt",
+    "downloaded_at": "2025-06-14T19:45:23.590535"
+  },
+  {
+    "title": "Geospatial Analysis with Python",
+    "filename": "Geospatial_Analysis_with_Python.md",
+    "original_url": "https://tds.s-anand.net/#/geospatial-analysis-with-python?id=geospatial-analysis-with-python",
+    "downloaded_at": "2025-06-14T19:45:24.653730"
+  },
+  {
+    "title": "Local LLMs: Ollama",
+    "filename": "Local_LLMs__Ollama.md",
+    "original_url": "https://tds.s-anand.net/#/ollama?id=real-world-use-cases",
+    "downloaded_at": "2025-06-14T19:45:25.722772"
+  },
+  {
+    "title": "Local LLMs: Ollama",
+    "filename": "Local_LLMs__Ollama.md",
+    "original_url": "https://tds.s-anand.net/#/ollama?id=key-features",
+    "downloaded_at": "2025-06-14T19:45:26.790132"
+  },
+  {
+    "title": "Local LLMs: Ollama",
+    "filename": "Local_LLMs__Ollama.md",
+    "original_url": "https://tds.s-anand.net/#/ollama?id=basic-usage",
+    "downloaded_at": "2025-06-14T19:45:27.859277"
+  },
+  {
+    "title": "AI Code Editors: GitHub Copilot",
+    "filename": "AI_Code_Editors__GitHub_Copilot.md",
+    "original_url": "https://tds.s-anand.net/#/github-copilot?id=ai-editor-github-copilot",
+    "downloaded_at": "2025-06-14T19:45:28.915773"
+  },
+  {
+    "title": "Outlier Detection with Excel",
+    "filename": "Outlier_Detection_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/outlier-detection-with-excel?id=outlier-detection-with-excel",
+    "downloaded_at": "2025-06-14T19:45:29.976363"
+  },
+  {
+    "title": "Outlier Detection with Excel",
+    "filename": "Outlier_Detection_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/images/project-tds-virtual-ta-q1.webp",
+    "downloaded_at": "2025-06-14T19:45:31.030943"
+  },
+  {
+    "title": "Project 1",
+    "filename": "Project_1.md",
+    "original_url": "https://tds.s-anand.net/#/project-tds-virtual-ta?id=share-your-code",
+    "downloaded_at": "2025-06-14T19:45:32.098186"
+  },
+  {
+    "title": "Project 1",
+    "filename": "Project_1.md",
+    "original_url": "https://tds.s-anand.net/#/project-tds-virtual-ta?id=deploy-your-application",
+    "downloaded_at": "2025-06-14T19:45:33.164884"
+  },
+  {
+    "title": "Project 1",
+    "filename": "Project_1.md",
+    "original_url": "https://tds.s-anand.net/#/project-tds-virtual-ta?id=evaluation",
+    "downloaded_at": "2025-06-14T19:45:34.240036"
+  },
+  {
+    "title": "Project 1",
+    "filename": "Project_1.md",
+    "original_url": "https://tds.s-anand.net/#/project-tds-virtual-ta?id=create-an-api",
+    "downloaded_at": "2025-06-14T19:45:35.310680"
+  },
+  {
+    "title": "Project 1",
+    "filename": "Project_1.md",
+    "original_url": "https://tds.s-anand.net/#/project-tds-virtual-ta?id=background",
+    "downloaded_at": "2025-06-14T19:45:36.379167"
+  },
+  {
+    "title": "Project 1",
+    "filename": "Project_1.md",
+    "original_url": "https://tds.s-anand.net/#/project-tds-virtual-ta?id=evaluate-your-application",
+    "downloaded_at": "2025-06-14T19:45:37.445404"
+  },
+  {
+    "title": "Project 1",
+    "filename": "Project_1.md",
+    "original_url": "https://tds.s-anand.net/#/project-tds-virtual-ta?id=project-tds-virtual-ta",
+    "downloaded_at": "2025-06-14T19:45:38.511178"
+  },
+  {
+    "title": "Project 1",
+    "filename": "Project_1.md",
+    "original_url": "https://tds.s-anand.net/#/project-tds-virtual-ta?id=submit-your-url",
+    "downloaded_at": "2025-06-14T19:45:39.576826"
+  },
+  {
+    "title": "LLM Sentiment Analysis",
+    "filename": "LLM_Sentiment_Analysis.md",
+    "original_url": "https://tds.s-anand.net/#/llm-sentiment-analysis?id=llm-sentiment-analysis",
+    "downloaded_at": "2025-06-14T19:45:40.640542"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=simple-image-editing-1",
+    "downloaded_at": "2025-06-14T19:45:41.713081"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=generation-options",
+    "downloaded_at": "2025-06-14T19:45:42.781659"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=editing-options-1",
+    "downloaded_at": "2025-06-14T19:45:43.851902"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=gemini-flash-experimental-image-generation-and-editing-apis",
+    "downloaded_at": "2025-06-14T19:45:44.934320"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=costs-and-optimization",
+    "downloaded_at": "2025-06-14T19:45:46.015010"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=costs-and-optimization-1",
+    "downloaded_at": "2025-06-14T19:45:47.082441"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=generation-options-1",
+    "downloaded_at": "2025-06-14T19:45:48.149167"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=openai-gpt-image-1-model-for-image-generation-and-editing",
+    "downloaded_at": "2025-06-14T19:45:49.218349"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=editing-options",
+    "downloaded_at": "2025-06-14T19:45:50.298502"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=simple-image-generation-1",
+    "downloaded_at": "2025-06-14T19:45:51.368209"
+  },
+  {
+    "title": "LLM Image Generation",
+    "filename": "LLM_Image_Generation.md",
+    "original_url": "https://tds.s-anand.net/#/llm-image-generation?id=simple-image-generation",
+    "downloaded_at": "2025-06-14T19:45:52.444412"
+  },
+  {
+    "title": "Multimodal Embeddings",
+    "filename": "Multimodal_Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/multimodal-embeddings?id=get-api-keys",
+    "downloaded_at": "2025-06-14T19:45:53.516428"
+  },
+  {
+    "title": "Multimodal Embeddings",
+    "filename": "Multimodal_Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/multimodal-embeddings?id=multimodal-embeddings",
+    "downloaded_at": "2025-06-14T19:45:54.579683"
+  },
+  {
+    "title": "Multimodal Embeddings",
+    "filename": "Multimodal_Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/multimodal-embeddings?id=_2-jina-ai",
+    "downloaded_at": "2025-06-14T19:45:55.648494"
+  },
+  {
+    "title": "Multimodal Embeddings",
+    "filename": "Multimodal_Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/multimodal-embeddings?id=jina-ai",
+    "downloaded_at": "2025-06-14T19:45:56.713067"
+  },
+  {
+    "title": "Multimodal Embeddings",
+    "filename": "Multimodal_Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/multimodal-embeddings?id=google-vertex-ai",
+    "downloaded_at": "2025-06-14T19:45:57.783866"
+  },
+  {
+    "title": "Multimodal Embeddings",
+    "filename": "Multimodal_Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/multimodal-embeddings?id=nomic-atlas",
+    "downloaded_at": "2025-06-14T19:45:58.853577"
+  },
+  {
+    "title": "Multimodal Embeddings",
+    "filename": "Multimodal_Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/multimodal-embeddings?id=example-requests",
+    "downloaded_at": "2025-06-14T19:45:59.932632"
+  },
+  {
+    "title": "Multimodal Embeddings",
+    "filename": "Multimodal_Embeddings.md",
+    "original_url": "https://tds.s-anand.net/#/multimodal-embeddings?id=_1-nomic-atlas",
+    "downloaded_at": "2025-06-14T19:46:00.998275"
+  },
+  {
+    "title": "Data Analysis with DuckDB",
+    "filename": "Data_Analysis_with_DuckDB.md",
+    "original_url": "https://tds.s-anand.net/#/data-analysis-with-duckdb?id=data-analysis-with-duckdb",
+    "downloaded_at": "2025-06-14T19:46:02.051718"
+  },
+  {
+    "title": "Data Analysis with SQL",
+    "filename": "Data_Analysis_with_SQL.md",
+    "original_url": "https://tds.s-anand.net/#/data-analysis-with-sql?id=data-analysis-with-sql",
+    "downloaded_at": "2025-06-14T19:46:03.097212"
+  },
+  {
+    "title": "Data Visualization with Seaborn",
+    "filename": "Data_Visualization_with_Seaborn.md",
+    "original_url": "https://tds.s-anand.net/#/data-visualization-with-seaborn?id=data-visualization-with-seaborn",
+    "downloaded_at": "2025-06-14T19:46:04.147423"
+  },
+  {
+    "title": "Function Calling",
+    "filename": "Function_Calling.md",
+    "original_url": "https://tds.s-anand.net/#/function-calling?id=function-calling-with-openai",
+    "downloaded_at": "2025-06-14T19:46:05.223468"
+  },
+  {
+    "title": "Function Calling",
+    "filename": "Function_Calling.md",
+    "original_url": "https://tds.s-anand.net/#/function-calling?id=how-to-define-multiple-functions",
+    "downloaded_at": "2025-06-14T19:46:06.296815"
+  },
+  {
+    "title": "Function Calling",
+    "filename": "Function_Calling.md",
+    "original_url": "https://tds.s-anand.net/#/function-calling?id=how-to-define-functions",
+    "downloaded_at": "2025-06-14T19:46:07.396825"
+  },
+  {
+    "title": "Scraping emarketer.com",
+    "filename": "Scraping_emarketer.com.md",
+    "original_url": "https://tds.s-anand.net/#/scraping-emarketer?id=scraping-emarketer",
+    "downloaded_at": "2025-06-14T19:46:08.445722"
+  },
+  {
+    "title": "Base 64 Encoding",
+    "filename": "Base_64_Encoding.md",
+    "original_url": "https://tds.s-anand.net/#/base64-encoding?id=base-64-encoding",
+    "downloaded_at": "2025-06-14T19:46:09.508916"
+  },
+  {
+    "title": "Spreadsheet: Excel, Google Sheets",
+    "filename": "Spreadsheet__Excel,_Google_Sheets.md",
+    "original_url": "https://tds.s-anand.net/#/spreadsheets?id=spreadsheet-excel-google-sheets",
+    "downloaded_at": "2025-06-14T19:46:10.565700"
+  },
+  {
+    "title": "Transforming Images",
+    "filename": "Transforming_Images.md",
+    "original_url": "https://tds.s-anand.net/#/transforming-images?id=image-processing-with-imagemagick",
+    "downloaded_at": "2025-06-14T19:46:11.643527"
+  },
+  {
+    "title": "Transforming Images",
+    "filename": "Transforming_Images.md",
+    "original_url": "https://tds.s-anand.net/#/transforming-images?id=filters-and-effects",
+    "downloaded_at": "2025-06-14T19:46:12.731517"
+  },
+  {
+    "title": "Transforming Images",
+    "filename": "Transforming_Images.md",
+    "original_url": "https://tds.s-anand.net/#/transforming-images?id=drawing-and-text",
+    "downloaded_at": "2025-06-14T19:46:13.822317"
+  },
+  {
+    "title": "Transforming Images",
+    "filename": "Transforming_Images.md",
+    "original_url": "https://tds.s-anand.net/#/transforming-images?id=transforming-images",
+    "downloaded_at": "2025-06-14T19:46:14.910132"
+  },
+  {
+    "title": "Transforming Images",
+    "filename": "Transforming_Images.md",
+    "original_url": "https://tds.s-anand.net/#/transforming-images?id=basic-image-operations",
+    "downloaded_at": "2025-06-14T19:46:16.001873"
+  },
+  {
+    "title": "Transforming Images",
+    "filename": "Transforming_Images.md",
+    "original_url": "https://tds.s-anand.net/#/transforming-images?id=image-processing-with-pil-pillow",
+    "downloaded_at": "2025-06-14T19:46:17.089331"
+  },
+  {
+    "title": "Version Control: Git, GitHub",
+    "filename": "Version_Control__Git,_GitHub.md",
+    "original_url": "https://tds.s-anand.net/#/git?id=version-control-git-github",
+    "downloaded_at": "2025-06-14T19:46:18.150025"
+  },
+  {
+    "title": "Hybrid RAG with TypeSense",
+    "filename": "Hybrid_RAG_with_TypeSense.md",
+    "original_url": "https://tds.s-anand.net/#/hybrid-rag-typesense?id=hybrid-retrieval-augmented-generation-hybrid-rag-with-typesense",
+    "downloaded_at": "2025-06-14T19:46:19.215552"
+  },
+  {
+    "title": "Hybrid RAG with TypeSense",
+    "filename": "Hybrid_RAG_with_TypeSense.md",
+    "original_url": "https://tds.s-anand.net/#/hybrid-rag-typesense?id=_4-run-a-hybrid-search-and-answer-a-question",
+    "downloaded_at": "2025-06-14T19:46:20.274032"
+  },
+  {
+    "title": "Hybrid RAG with TypeSense",
+    "filename": "Hybrid_RAG_with_TypeSense.md",
+    "original_url": "https://tds.s-anand.net/#/hybrid-rag-typesense?id=install-and-run-typesense",
+    "downloaded_at": "2025-06-14T19:46:21.334659"
+  },
+  {
+    "title": "Notebooks: Google Colab",
+    "filename": "Notebooks__Google_Colab.md",
+    "original_url": "https://tds.s-anand.net/#/colab?id=notebooks-google-colab",
+    "downloaded_at": "2025-06-14T19:46:22.379486"
+  },
+  {
+    "title": "CI/CD: GitHub Actions",
+    "filename": "CI_CD__GitHub_Actions.md",
+    "original_url": "https://tds.s-anand.net/#/github-actions?id=cicd-github-actions",
+    "downloaded_at": "2025-06-14T19:46:23.433653"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=video-tutorials",
+    "downloaded_at": "2025-06-14T19:46:24.496852"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=be-clear-direct-and-detailed",
+    "downloaded_at": "2025-06-14T19:46:25.554405"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=use-xml-to-structure-your-prompt",
+    "downloaded_at": "2025-06-14T19:46:26.608061"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/playground?id=attachments",
+    "downloaded_at": "2025-06-14T19:46:27.651767"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=prompt-engineering",
+    "downloaded_at": "2025-06-14T19:46:28.719909"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=use-markdown-to-format-your-output",
+    "downloaded_at": "2025-06-14T19:46:29.784390"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=assign-a-role",
+    "downloaded_at": "2025-06-14T19:46:30.848450"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=use-json-for-machine-readable-output",
+    "downloaded_at": "2025-06-14T19:46:31.917195"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=think-step-by-step",
+    "downloaded_at": "2025-06-14T19:46:32.980292"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=use-proper-spelling-and-grammar",
+    "downloaded_at": "2025-06-14T19:46:34.040742"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=ask-for-reason-first-then-the-answer",
+    "downloaded_at": "2025-06-14T19:46:35.104141"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=give-examples",
+    "downloaded_at": "2025-06-14T19:46:36.168867"
+  },
+  {
+    "title": "Prompt engineering",
+    "filename": "Prompt_engineering.md",
+    "original_url": "https://tds.s-anand.net/#/prompt-engineering?id=prefer-yesno-answers",
+    "downloaded_at": "2025-06-14T19:46:37.243116"
+  },
+  {
+    "title": "LLM Text Extraction",
+    "filename": "LLM_Text_Extraction.md",
+    "original_url": "https://tds.s-anand.net/#/llm-text-extraction?id=llm-text-extraction",
+    "downloaded_at": "2025-06-14T19:46:38.303857"
+  },
+  {
+    "title": "Geospatial Analysis with Excel",
+    "filename": "Geospatial_Analysis_with_Excel.md",
+    "original_url": "https://tds.s-anand.net/#/geospatial-analysis-with-excel?id=geospatial-analysis-with-excel",
+    "downloaded_at": "2025-06-14T19:46:39.344069"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech?id=generation-options",
+    "downloaded_at": "2025-06-14T19:46:40.408358"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech?id=google-gemini-speech-studio-for-text-to-speech",
+    "downloaded_at": "2025-06-14T19:46:41.467581"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech?id=simple-speech-generation",
+    "downloaded_at": "2025-06-14T19:46:42.523925"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech?id=costs-and-optimization",
+    "downloaded_at": "2025-06-14T19:46:43.580725"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech?id=python-implementation",
+    "downloaded_at": "2025-06-14T19:46:44.638861"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech?id=ssml-support",
+    "downloaded_at": "2025-06-14T19:46:45.709799"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech?id=generation-options-1",
+    "downloaded_at": "2025-06-14T19:46:46.776889"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech?id=simple-speech-generation-1",
+    "downloaded_at": "2025-06-14T19:46:47.830508"
+  },
+  {
+    "title": "LLM Speech",
+    "filename": "LLM_Speech.md",
+    "original_url": "https://tds.s-anand.net/#/llm-speech?id=costs-and-optimization-1",
+    "downloaded_at": "2025-06-14T19:46:48.892303"
+  },
+  {
+    "title": "Visualizing Animated Data with PowerPoint",
+    "filename": "Visualizing_Animated_Data_with_PowerPoint.md",
+    "original_url": "https://tds.s-anand.net/#/visualizing-animated-data-with-powerpoint?id=visualizing-animated-data-with-powerpoint",
+    "downloaded_at": "2025-06-14T19:46:49.937901"
+  },
+  {
+    "title": "CORS",
+    "filename": "CORS.md",
+    "original_url": "https://tds.s-anand.net/#/cors?id=cors-cross-origin-resource-sharing",
+    "downloaded_at": "2025-06-14T19:46:50.984665"
+  },
+  {
+    "title": "RAWgraphs",
+    "filename": "RAWgraphs.md",
+    "original_url": "https://tds.s-anand.net/#/rawgraphs?id=rawgraphs",
+    "downloaded_at": "2025-06-14T19:46:52.024801"
+  },
+  {
+    "title": "RAG with the CLI)",
+    "filename": "RAG_with_the_CLI).md",
+    "original_url": "https://tds.s-anand.net/#/rag-cli?id=_1-clone-the-repository",
+    "downloaded_at": "2025-06-14T19:46:53.081202"
+  },
+  {
+    "title": "RAG with the CLI)",
+    "filename": "RAG_with_the_CLI).md",
+    "original_url": "https://tds.s-anand.net/#/rag-cli?id=_4-find-similar-topics",
+    "downloaded_at": "2025-06-14T19:46:54.127807"
+  },
+  {
+    "title": "RAG with the CLI)",
+    "filename": "RAG_with_the_CLI).md",
+    "original_url": "https://tds.s-anand.net/#/rag-cli?id=_5-answer-a-question-using-retrieved-context",
+    "downloaded_at": "2025-06-14T19:46:55.174770"
+  },
+  {
+    "title": "RAG with the CLI)",
+    "filename": "RAG_with_the_CLI).md",
+    "original_url": "https://tds.s-anand.net/#/rag-cli?id=retrieval-augmented-generation-rag-with-the-cli",
+    "downloaded_at": "2025-06-14T19:46:56.238214"
+  },
+  {
+    "title": "RAG with the CLI)",
+    "filename": "RAG_with_the_CLI).md",
+    "original_url": "https://tds.s-anand.net/#/rag-cli?id=_2-split-markdown-files-into-chunks",
+    "downloaded_at": "2025-06-14T19:46:57.289972"
+  },
+  {
+    "title": "RAG with the CLI)",
+    "filename": "RAG_with_the_CLI).md",
+    "original_url": "https://tds.s-anand.net/#/rag-cli?id=_3-generate-embeddings",
+    "downloaded_at": "2025-06-14T19:46:58.335299"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../bbc-weather-api-with-python?id=bbc-weather-location-id-with-python",
+    "downloaded_at": "2025-06-14T19:46:59.375586"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../bbc-weather-api-with-python?id=bbc-weather-data-with-python",
+    "downloaded_at": "2025-06-14T19:47:00.420087"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-31",
+    "downloaded_at": "2025-06-14T19:47:01.462219"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-31?id=live-session-31-jan-2025",
+    "downloaded_at": "2025-06-14T19:47:02.509611"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-with-excel",
+    "downloaded_at": "2025-06-14T19:47:03.547697"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-with-excel?id=scraping-with-excel",
+    "downloaded_at": "2025-06-14T19:47:04.593644"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vision-models",
+    "downloaded_at": "2025-06-14T19:47:05.641728"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vision-models?id=vision-models",
+    "downloaded_at": "2025-06-14T19:47:06.687449"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-analysis",
+    "downloaded_at": "2025-06-14T19:47:07.731664"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-analysis?id=data-analysis",
+    "downloaded_at": "2025-06-14T19:47:08.776046"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../topic-modeling",
+    "downloaded_at": "2025-06-14T19:47:09.821285"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../topic-modeling?id=topic-modeling",
+    "downloaded_at": "2025-06-14T19:47:10.861312"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../css-selectors",
+    "downloaded_at": "2025-06-14T19:47:11.903641"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../css-selectors?id=css-selectors",
+    "downloaded_at": "2025-06-14T19:47:12.945931"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../tds-ta-instructions",
+    "downloaded_at": "2025-06-14T19:47:13.992728"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../tds-ta-instructions?id=tds-ta-instructions",
+    "downloaded_at": "2025-06-14T19:47:15.035220"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-23",
+    "downloaded_at": "2025-06-14T19:47:16.081601"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-23?id=live-session-23-jan-2025",
+    "downloaded_at": "2025-06-14T19:47:17.123631"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-20",
+    "downloaded_at": "2025-06-14T19:47:18.172528"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-20?id=live-session-20-jan-2025",
+    "downloaded_at": "2025-06-14T19:47:19.218389"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../extracting-audio-and-transcripts",
+    "downloaded_at": "2025-06-14T19:47:20.276458"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../extracting-audio-and-transcripts?id=gemini-transcription",
+    "downloaded_at": "2025-06-14T19:47:21.335455"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../extracting-audio-and-transcripts?id=whisper-transcription",
+    "downloaded_at": "2025-06-14T19:47:22.399227"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../extracting-audio-and-transcripts?id=extracting-audio-and-transcripts",
+    "downloaded_at": "2025-06-14T19:47:23.462327"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../extracting-audio-and-transcripts?id=media-tools-yt-dlp",
+    "downloaded_at": "2025-06-14T19:47:24.518959"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../extracting-audio-and-transcripts?id=media-processing-ffmpeg",
+    "downloaded_at": "2025-06-14T19:47:25.575119"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-30",
+    "downloaded_at": "2025-06-14T19:47:26.648067"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-30?id=live-session-30-jan-2025",
+    "downloaded_at": "2025-06-14T19:47:27.700320"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../colab",
+    "downloaded_at": "2025-06-14T19:47:28.745274"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../colab?id=notebooks-google-colab",
+    "downloaded_at": "2025-06-14T19:47:29.790250"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../google-data-studio",
+    "downloaded_at": "2025-06-14T19:47:30.832154"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../google-data-studio?id=google-data-studio",
+    "downloaded_at": "2025-06-14T19:47:31.876803"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-1",
+    "downloaded_at": "2025-06-14T19:47:32.932891"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/project-1/evaluate.py",
+    "downloaded_at": "2025-06-14T19:47:33.963276"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-1?id=background",
+    "downloaded_at": "2025-06-14T19:47:35.023420"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-1?id=phase-a-handle-operations-tasks",
+    "downloaded_at": "2025-06-14T19:47:36.074807"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/project-1/run.sh",
+    "downloaded_at": "2025-06-14T19:47:37.107374"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-1?id=phase-b-handle-business-tasks",
+    "downloaded_at": "2025-06-14T19:47:38.161225"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-1?id=deliverables",
+    "downloaded_at": "2025-06-14T19:47:39.210952"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-1?id=project-1-llm-based-automation-agent",
+    "downloaded_at": "2025-06-14T19:47:40.265464"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-1?id=evaluation",
+    "downloaded_at": "2025-06-14T19:47:41.325495"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-1?id=create-an-api",
+    "downloaded_at": "2025-06-14T19:47:42.381781"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/project-1/validate.py",
+    "downloaded_at": "2025-06-14T19:47:43.425184"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../network-analysis-in-python",
+    "downloaded_at": "2025-06-14T19:47:44.470071"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../network-analysis-in-python?id=network-analysis-in-python",
+    "downloaded_at": "2025-06-14T19:47:45.517387"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-website-scraping",
+    "downloaded_at": "2025-06-14T19:47:46.551436"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-website-scraping?id=llm-website-scraping",
+    "downloaded_at": "2025-06-14T19:47:47.595852"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../outlier-detection-with-excel",
+    "downloaded_at": "2025-06-14T19:47:48.631872"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../outlier-detection-with-excel?id=outlier-detection-with-excel",
+    "downloaded_at": "2025-06-14T19:47:49.667247"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-animated-data-with-flourish",
+    "downloaded_at": "2025-06-14T19:47:50.715050"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-animated-data-with-flourish?id=visualizing-animated-data-with-flourish",
+    "downloaded_at": "2025-06-14T19:47:51.756851"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-imdb-with-javascript",
+    "downloaded_at": "2025-06-14T19:47:52.806549"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-imdb-with-javascript?id=scraping-imdb-with-javascript",
+    "downloaded_at": "2025-06-14T19:47:53.848074"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-visualization-with-seaborn",
+    "downloaded_at": "2025-06-14T19:47:54.892921"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-visualization-with-seaborn?id=data-visualization-with-seaborn",
+    "downloaded_at": "2025-06-14T19:47:55.937196"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-text-extraction",
+    "downloaded_at": "2025-06-14T19:47:56.988935"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-text-extraction?id=llm-text-extraction",
+    "downloaded_at": "2025-06-14T19:47:58.031525"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../cors",
+    "downloaded_at": "2025-06-14T19:47:59.077769"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../cors?id=cors-cross-origin-resource-sharing",
+    "downloaded_at": "2025-06-14T19:48:00.131575"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../cleaning-data-with-openrefine",
+    "downloaded_at": "2025-06-14T19:48:01.166962"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../cleaning-data-with-openrefine?id=cleaning-data-with-openrefine",
+    "downloaded_at": "2025-06-14T19:48:02.211066"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../large-language-models",
+    "downloaded_at": "2025-06-14T19:48:03.260467"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../large-language-models?id=large-language-models",
+    "downloaded_at": "2025-06-14T19:48:04.313342"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../large-language-models?id=ai-proxy-jan-2025",
+    "downloaded_at": "2025-06-14T19:48:05.360200"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../transforming-images",
+    "downloaded_at": "2025-06-14T19:48:06.433983"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../transforming-images?id=drawing-and-text",
+    "downloaded_at": "2025-06-14T19:48:07.513531"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../transforming-images?id=image-processing-with-pil-pillow",
+    "downloaded_at": "2025-06-14T19:48:08.585435"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../transforming-images?id=image-processing-with-imagemagick",
+    "downloaded_at": "2025-06-14T19:48:09.659478"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../transforming-images?id=transforming-images",
+    "downloaded_at": "2025-06-14T19:48:10.733874"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../transforming-images?id=filters-and-effects",
+    "downloaded_at": "2025-06-14T19:48:11.840293"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../transforming-images?id=basic-image-operations",
+    "downloaded_at": "2025-06-14T19:48:12.921435"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../transforming-images?id=memory-efficient-processing",
+    "downloaded_at": "2025-06-14T19:48:13.991673"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../transforming-images?id=color-and-enhancement",
+    "downloaded_at": "2025-06-14T19:48:15.065978"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-02-07",
+    "downloaded_at": "2025-06-14T19:48:16.108682"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-02-07?id=live-session-07-feb-2025",
+    "downloaded_at": "2025-06-14T19:48:17.153405"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../github-pages",
+    "downloaded_at": "2025-06-14T19:48:18.206253"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../github-pages?id=static-hosting-github-pages",
+    "downloaded_at": "2025-06-14T19:48:19.249745"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../google-charts",
+    "downloaded_at": "2025-06-14T19:48:20.292921"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../google-charts?id=google-charts",
+    "downloaded_at": "2025-06-14T19:48:21.338456"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../devtools",
+    "downloaded_at": "2025-06-14T19:48:22.384646"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../devtools?id=browser-devtools",
+    "downloaded_at": "2025-06-14T19:48:23.430230"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/2025-01/?id=evaluations-are-mostly-open-internet",
+    "downloaded_at": "2025-06-14T19:48:24.482881"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../image-compression",
+    "downloaded_at": "2025-06-14T19:48:25.532848"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../image-compression?id=images-compression",
+    "downloaded_at": "2025-06-14T19:48:26.572298"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../ngrok",
+    "downloaded_at": "2025-06-14T19:48:27.615390"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../ngrok?id=tunneling-ngrok",
+    "downloaded_at": "2025-06-14T19:48:28.650029"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../embeddings",
+    "downloaded_at": "2025-06-14T19:48:29.703273"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../embeddings?id=embeddings-openai-and-local-models",
+    "downloaded_at": "2025-06-14T19:48:30.750106"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../embeddings?id=openai-embeddings",
+    "downloaded_at": "2025-06-14T19:48:31.809768"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../embeddings?id=local-embeddings",
+    "downloaded_at": "2025-06-14T19:48:32.859449"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../uv",
+    "downloaded_at": "2025-06-14T19:48:33.904921"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../uv?id=python-tools-uv",
+    "downloaded_at": "2025-06-14T19:48:34.957704"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scheduled-scraping-with-github-actions",
+    "downloaded_at": "2025-06-14T19:48:36.017589"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scheduled-scraping-with-github-actions?id=key-concepts",
+    "downloaded_at": "2025-06-14T19:48:37.075934"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scheduled-scraping-with-github-actions?id=tools-and-resources",
+    "downloaded_at": "2025-06-14T19:48:38.132732"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scheduled-scraping-with-github-actions?id=best-practices",
+    "downloaded_at": "2025-06-14T19:48:39.184188"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scheduled-scraping-with-github-actions?id=video-tutorials",
+    "downloaded_at": "2025-06-14T19:48:40.243123"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scheduled-scraping-with-github-actions?id=scheduled-scraping-with-github-actions",
+    "downloaded_at": "2025-06-14T19:48:41.295384"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-cleansing-in-excel",
+    "downloaded_at": "2025-06-14T19:48:42.335998"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-cleansing-in-excel?id=data-cleansing-in-excel",
+    "downloaded_at": "2025-06-14T19:48:43.382415"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/2025-01/?id=jan-2025-links",
+    "downloaded_at": "2025-06-14T19:48:44.446099"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-machine-learning",
+    "downloaded_at": "2025-06-14T19:48:45.494413"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-machine-learning?id=visualizing-machine-learning",
+    "downloaded_at": "2025-06-14T19:48:46.536357"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../geospatial-analysis-with-excel",
+    "downloaded_at": "2025-06-14T19:48:47.567070"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../geospatial-analysis-with-excel?id=geospatial-analysis-with-excel",
+    "downloaded_at": "2025-06-14T19:48:48.601142"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-transformation-in-excel",
+    "downloaded_at": "2025-06-14T19:48:49.643811"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-transformation-in-excel?id=data-transformation-in-excel",
+    "downloaded_at": "2025-06-14T19:48:50.689205"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vscode",
+    "downloaded_at": "2025-06-14T19:48:51.742782"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vscode?id=editor-vs-code",
+    "downloaded_at": "2025-06-14T19:48:52.783294"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-network-data-with-kumu",
+    "downloaded_at": "2025-06-14T19:48:53.823086"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-network-data-with-kumu?id=visualizing-network-data-with-kumu",
+    "downloaded_at": "2025-06-14T19:48:54.868068"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-animated-data-with-powerpoint",
+    "downloaded_at": "2025-06-14T19:48:55.900601"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-animated-data-with-powerpoint?id=visualizing-animated-data-with-powerpoint",
+    "downloaded_at": "2025-06-14T19:48:56.934568"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation",
+    "downloaded_at": "2025-06-14T19:48:57.981885"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation?id=data-preparation",
+    "downloaded_at": "2025-06-14T19:48:59.030787"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../actor-network-visualization",
+    "downloaded_at": "2025-06-14T19:49:00.072647"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../actor-network-visualization?id=actor-network-visualization",
+    "downloaded_at": "2025-06-14T19:49:01.108180"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-charts-with-excel",
+    "downloaded_at": "2025-06-14T19:49:02.157327"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-charts-with-excel?id=visualizing-charts-with-excel",
+    "downloaded_at": "2025-06-14T19:49:03.202657"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/2025-01/?id=tools-in-data-science-jan-2025",
+    "downloaded_at": "2025-06-14T19:49:04.265716"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-sourcing",
+    "downloaded_at": "2025-06-14T19:49:05.305241"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-sourcing?id=data-sourcing",
+    "downloaded_at": "2025-06-14T19:49:06.353223"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-with-google-sheets",
+    "downloaded_at": "2025-06-14T19:49:07.390841"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-with-google-sheets?id=scraping-with-google-sheets",
+    "downloaded_at": "2025-06-14T19:49:08.438919"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../geospatial-analysis-with-qgis",
+    "downloaded_at": "2025-06-14T19:49:09.482695"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../geospatial-analysis-with-qgis?id=geospatial-analysis-with-qgis",
+    "downloaded_at": "2025-06-14T19:49:10.527234"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-02-04",
+    "downloaded_at": "2025-06-14T19:49:11.576358"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-02-04?id=live-session-04-feb-2025",
+    "downloaded_at": "2025-06-14T19:49:12.624327"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-sentiment-analysis",
+    "downloaded_at": "2025-06-14T19:49:13.663854"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-sentiment-analysis?id=llm-sentiment-analysis",
+    "downloaded_at": "2025-06-14T19:49:14.707092"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../parsing-json",
+    "downloaded_at": "2025-06-14T19:49:15.766881"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../parsing-json?id=parsing-json",
+    "downloaded_at": "2025-06-14T19:49:16.819296"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../parsing-json?id=command-line-json-processing-with-jq",
+    "downloaded_at": "2025-06-14T19:49:17.876415"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../parsing-json?id=jmespath-queries",
+    "downloaded_at": "2025-06-14T19:49:18.941899"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../parsing-json?id=sql-json-functions",
+    "downloaded_at": "2025-06-14T19:49:20.008240"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../parsing-json?id=streaming-with-ijson",
+    "downloaded_at": "2025-06-14T19:49:21.071231"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../parsing-json?id=pandas-json-columns",
+    "downloaded_at": "2025-06-14T19:49:22.128877"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../parsing-json?id=duckdb-json-processing",
+    "downloaded_at": "2025-06-14T19:49:23.194594"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-analysis-with-duckdb",
+    "downloaded_at": "2025-06-14T19:49:24.235992"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-analysis-with-duckdb?id=data-analysis-with-duckdb",
+    "downloaded_at": "2025-06-14T19:49:25.284698"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-sessions",
+    "downloaded_at": "2025-06-14T19:49:26.322485"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-sessions?id=live-sessions",
+    "downloaded_at": "2025-06-14T19:49:27.369686"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-analysis-with-python",
+    "downloaded_at": "2025-06-14T19:49:28.417293"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-analysis-with-python?id=data-analysis-with-python",
+    "downloaded_at": "2025-06-14T19:49:29.463195"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../regression-with-excel",
+    "downloaded_at": "2025-06-14T19:49:30.503515"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../regression-with-excel?id=regression-with-excel",
+    "downloaded_at": "2025-06-14T19:49:31.553274"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-storytelling",
+    "downloaded_at": "2025-06-14T19:49:32.594047"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-storytelling?id=data-storytelling",
+    "downloaded_at": "2025-06-14T19:49:33.639982"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-live-sessions",
+    "downloaded_at": "2025-06-14T19:49:34.685831"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-live-sessions?id=scraping-live-sessions",
+    "downloaded_at": "2025-06-14T19:49:35.732372"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../geospatial-analysis-with-python",
+    "downloaded_at": "2025-06-14T19:49:36.777112"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../geospatial-analysis-with-python?id=geospatial-analysis-with-python",
+    "downloaded_at": "2025-06-14T19:49:37.821483"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-02-06",
+    "downloaded_at": "2025-06-14T19:49:38.867084"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-02-06?id=live-session-06-feb-2025",
+    "downloaded_at": "2025-06-14T19:49:39.917312"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/2025-01/?id=people-who-help-you",
+    "downloaded_at": "2025-06-14T19:49:40.984315"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../deployment-tools",
+    "downloaded_at": "2025-06-14T19:49:42.021375"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../deployment-tools?id=deployment-tools",
+    "downloaded_at": "2025-06-14T19:49:43.067315"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../sqlite",
+    "downloaded_at": "2025-06-14T19:49:44.127200"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../sqlite?id=database-sqlite",
+    "downloaded_at": "2025-06-14T19:49:45.174415"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../development-tools",
+    "downloaded_at": "2025-06-14T19:49:46.222597"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../development-tools?id=development-tools",
+    "downloaded_at": "2025-06-14T19:49:47.268236"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-emarketer",
+    "downloaded_at": "2025-06-14T19:49:48.314135"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-emarketer?id=scraping-emarketer",
+    "downloaded_at": "2025-06-14T19:49:49.354677"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-28",
+    "downloaded_at": "2025-06-14T19:49:50.410706"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-28?id=live-session-28-jan-2025",
+    "downloaded_at": "2025-06-14T19:49:51.464850"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../retrieval-augmented-generation",
+    "downloaded_at": "2025-06-14T19:49:52.514514"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../retrieval-augmented-generation?id=retrieval-augmented-generation",
+    "downloaded_at": "2025-06-14T19:49:53.566425"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../markdown",
+    "downloaded_at": "2025-06-14T19:49:54.607529"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../markdown?id=documentation-markdown",
+    "downloaded_at": "2025-06-14T19:49:55.646158"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../marimo",
+    "downloaded_at": "2025-06-14T19:49:56.690733"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../marimo?id=interactive-notebooks-marimo",
+    "downloaded_at": "2025-06-14T19:49:57.733674"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-22",
+    "downloaded_at": "2025-06-14T19:49:58.777573"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-22?id=live-session-22-jan-2025",
+    "downloaded_at": "2025-06-14T19:49:59.820281"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../wikipedia-data-with-python",
+    "downloaded_at": "2025-06-14T19:50:00.858179"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../wikipedia-data-with-python?id=wikipedia-data-with-python",
+    "downloaded_at": "2025-06-14T19:50:01.902418"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vector-databases",
+    "downloaded_at": "2025-06-14T19:50:02.975356"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vector-databases?id=lancedb",
+    "downloaded_at": "2025-06-14T19:50:04.048026"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vector-databases?id=vector-databases",
+    "downloaded_at": "2025-06-14T19:50:05.131471"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vector-databases?id=duckdb",
+    "downloaded_at": "2025-06-14T19:50:06.204806"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vector-databases?id=chromadb",
+    "downloaded_at": "2025-06-14T19:50:07.281486"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../tds-gpt-reviewer",
+    "downloaded_at": "2025-06-14T19:50:08.327211"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../tds-gpt-reviewer?id=tds-gpt-reviewer",
+    "downloaded_at": "2025-06-14T19:50:09.371422"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../tds-gpt-reviewer?id=content-creation-prompts",
+    "downloaded_at": "2025-06-14T19:50:10.414026"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-pdfs-with-tabula",
+    "downloaded_at": "2025-06-14T19:50:11.463929"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../scraping-pdfs-with-tabula?id=scraping-pdfs-with-tabula",
+    "downloaded_at": "2025-06-14T19:50:12.513626"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-15",
+    "downloaded_at": "2025-06-14T19:50:13.555567"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-15?id=live-session-15-jan-2025",
+    "downloaded_at": "2025-06-14T19:50:14.594559"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llamafile",
+    "downloaded_at": "2025-06-14T19:50:15.653576"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llamafile?id=local-llms-llamafile",
+    "downloaded_at": "2025-06-14T19:50:16.697709"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-02-01",
+    "downloaded_at": "2025-06-14T19:50:17.742637"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-02-01?id=live-session-01-feb-2025",
+    "downloaded_at": "2025-06-14T19:50:18.797696"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/2025-01/?id=we-cover-7-modules-in-12-weeks",
+    "downloaded_at": "2025-06-14T19:50:19.850837"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-16",
+    "downloaded_at": "2025-06-14T19:50:20.895618"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-16?id=live-session-16-jan-2025",
+    "downloaded_at": "2025-06-14T19:50:21.943894"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-forecasts-with-excel",
+    "downloaded_at": "2025-06-14T19:50:23.046434"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../visualizing-forecasts-with-excel?id=visualizing-forecasts-with-excel",
+    "downloaded_at": "2025-06-14T19:50:24.103954"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../profiling-data-with-python",
+    "downloaded_at": "2025-06-14T19:50:25.154688"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../profiling-data-with-python?id=profile-data-with-python",
+    "downloaded_at": "2025-06-14T19:50:26.204474"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../git",
+    "downloaded_at": "2025-06-14T19:50:27.251838"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../git?id=version-control-git-github",
+    "downloaded_at": "2025-06-14T19:50:28.303364"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-21",
+    "downloaded_at": "2025-06-14T19:50:29.351591"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-21?id=live-session-21-jan-2025",
+    "downloaded_at": "2025-06-14T19:50:30.394410"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/2025-01/?id=course-links",
+    "downloaded_at": "2025-06-14T19:50:31.457153"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../unicode",
+    "downloaded_at": "2025-06-14T19:50:32.505584"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../unicode?id=unicode",
+    "downloaded_at": "2025-06-14T19:50:33.548322"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-29",
+    "downloaded_at": "2025-06-14T19:50:34.589467"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-29?id=live-session-29-jan-2025",
+    "downloaded_at": "2025-06-14T19:50:35.631391"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../docker",
+    "downloaded_at": "2025-06-14T19:50:36.681902"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../docker?id=containers-docker-podman",
+    "downloaded_at": "2025-06-14T19:50:37.720490"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-2",
+    "downloaded_at": "2025-06-14T19:50:38.768803"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-2?id=deploy-your-application",
+    "downloaded_at": "2025-06-14T19:50:39.809944"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-2?id=background",
+    "downloaded_at": "2025-06-14T19:50:40.852654"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-2?id=submit-your-url",
+    "downloaded_at": "2025-06-14T19:50:41.891646"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-2?id=evaluation",
+    "downloaded_at": "2025-06-14T19:50:42.942698"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-2?id=project-2-tds-solver",
+    "downloaded_at": "2025-06-14T19:50:43.989807"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-2?id=share-your-code",
+    "downloaded_at": "2025-06-14T19:50:45.033672"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../project-2?id=create-an-api",
+    "downloaded_at": "2025-06-14T19:50:46.074931"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vercel",
+    "downloaded_at": "2025-06-14T19:50:47.130496"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vercel?id=serverless-hosting-vercel",
+    "downloaded_at": "2025-06-14T19:50:48.183948"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../vercel?id=videos",
+    "downloaded_at": "2025-06-14T19:50:49.245321"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/2025-01/?id=updates",
+    "downloaded_at": "2025-06-14T19:50:50.304600"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../fastapi",
+    "downloaded_at": "2025-06-14T19:50:51.348839"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../fastapi?id=web-framework-fastapi",
+    "downloaded_at": "2025-06-14T19:50:52.404310"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../nominatim-api-with-python",
+    "downloaded_at": "2025-06-14T19:50:53.445817"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../nominatim-api-with-python?id=nominatim-api-with-python",
+    "downloaded_at": "2025-06-14T19:50:54.489011"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../splitting-text-in-excel",
+    "downloaded_at": "2025-06-14T19:50:55.534915"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../splitting-text-in-excel?id=splitting-text-in-excel",
+    "downloaded_at": "2025-06-14T19:50:56.579553"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown",
+    "downloaded_at": "2025-06-14T19:50:57.640624"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown?id=azure-document-intelligence-api",
+    "downloaded_at": "2025-06-14T19:50:58.702097"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown?id=markitdown",
+    "downloaded_at": "2025-06-14T19:50:59.759593"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown?id=pymupdf4llm",
+    "downloaded_at": "2025-06-14T19:51:00.812192"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown?id=comparison-of-pdf-to-markdown-tools",
+    "downloaded_at": "2025-06-14T19:51:01.875077"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown?id=grobid",
+    "downloaded_at": "2025-06-14T19:51:02.930423"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown?id=mistral-ocr-api",
+    "downloaded_at": "2025-06-14T19:51:03.985370"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown?id=converting-pdfs-to-markdown",
+    "downloaded_at": "2025-06-14T19:51:05.041963"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown?id=other-libraries",
+    "downloaded_at": "2025-06-14T19:51:06.103621"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown?id=tips-for-optimal-pdf-conversion",
+    "downloaded_at": "2025-06-14T19:51:07.179207"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../convert-pdfs-to-markdown?id=unstructured",
+    "downloaded_at": "2025-06-14T19:51:08.241384"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../narratives-with-comics",
+    "downloaded_at": "2025-06-14T19:51:09.280591"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../narratives-with-comics?id=narratives-with-comics",
+    "downloaded_at": "2025-06-14T19:51:10.318534"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../base64-encoding",
+    "downloaded_at": "2025-06-14T19:51:11.368329"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../base64-encoding?id=base-64-encoding",
+    "downloaded_at": "2025-06-14T19:51:12.412767"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-visualization",
+    "downloaded_at": "2025-06-14T19:51:13.450390"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-visualization?id=data-visualization",
+    "downloaded_at": "2025-06-14T19:51:14.491102"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-17",
+    "downloaded_at": "2025-06-14T19:51:15.542288"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../live-session-2025-01-17?id=live-session-17-jan-2025",
+    "downloaded_at": "2025-06-14T19:51:16.591056"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../rest-apis",
+    "downloaded_at": "2025-06-14T19:51:17.648732"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../rest-apis?id=rest-apis",
+    "downloaded_at": "2025-06-14T19:51:18.703226"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../npx",
+    "downloaded_at": "2025-06-14T19:51:19.746443"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../npx?id=javascript-tools-npx",
+    "downloaded_at": "2025-06-14T19:51:20.788871"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../json",
+    "downloaded_at": "2025-06-14T19:51:21.844199"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../json?id=json",
+    "downloaded_at": "2025-06-14T19:51:22.894063"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-analysis-with-sql",
+    "downloaded_at": "2025-06-14T19:51:23.937619"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-analysis-with-sql?id=data-analysis-with-sql",
+    "downloaded_at": "2025-06-14T19:51:24.979026"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../bash",
+    "downloaded_at": "2025-06-14T19:51:26.034932"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../bash?id=terminal-bash",
+    "downloaded_at": "2025-06-14T19:51:27.085591"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../correlation-with-excel",
+    "downloaded_at": "2025-06-14T19:51:28.125149"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../correlation-with-excel?id=correlation-with-excel",
+    "downloaded_at": "2025-06-14T19:51:29.170567"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/2025-01/?id=constantly-check-communications",
+    "downloaded_at": "2025-06-14T19:51:30.232639"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-video-screen-scraping",
+    "downloaded_at": "2025-06-14T19:51:31.281734"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-video-screen-scraping?id=quick-start-example",
+    "downloaded_at": "2025-06-14T19:51:32.330235"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-video-screen-scraping?id=cost-calculation",
+    "downloaded_at": "2025-06-14T19:51:33.380233"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-video-screen-scraping?id=llm-video-screen-scraping",
+    "downloaded_at": "2025-06-14T19:51:34.437457"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-video-screen-scraping?id=best-practices",
+    "downloaded_at": "2025-06-14T19:51:35.479042"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../llm-video-screen-scraping?id=use-cases",
+    "downloaded_at": "2025-06-14T19:51:36.523232"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../rawgraphs",
+    "downloaded_at": "2025-06-14T19:51:37.558091"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../rawgraphs?id=rawgraphs",
+    "downloaded_at": "2025-06-14T19:51:38.606007"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../forecasting-with-excel",
+    "downloaded_at": "2025-06-14T19:51:39.642249"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../forecasting-with-excel?id=forecasting-with-excel",
+    "downloaded_at": "2025-06-14T19:51:40.687428"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering",
+    "downloaded_at": "2025-06-14T19:51:41.738045"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=use-markdown-to-format-your-output",
+    "downloaded_at": "2025-06-14T19:51:42.804528"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=use-json-for-machine-readable-output",
+    "downloaded_at": "2025-06-14T19:51:43.864213"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=video-tutorials",
+    "downloaded_at": "2025-06-14T19:51:44.927742"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=use-proper-spelling-and-grammar",
+    "downloaded_at": "2025-06-14T19:51:45.986105"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=use-xml-to-structure-your-prompt",
+    "downloaded_at": "2025-06-14T19:51:47.044398"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=give-examples",
+    "downloaded_at": "2025-06-14T19:51:48.104553"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=use-prompt-optimizers",
+    "downloaded_at": "2025-06-14T19:51:49.161863"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=assign-a-role",
+    "downloaded_at": "2025-06-14T19:51:50.226726"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=think-step-by-step",
+    "downloaded_at": "2025-06-14T19:51:51.286281"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=prefer-yesno-answers",
+    "downloaded_at": "2025-06-14T19:51:52.361628"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=ask-for-reason-first-then-the-answer",
+    "downloaded_at": "2025-06-14T19:51:53.439112"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=be-clear-direct-and-detailed",
+    "downloaded_at": "2025-06-14T19:51:54.504346"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../prompt-engineering?id=prompt-engineering",
+    "downloaded_at": "2025-06-14T19:51:55.566130"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell",
+    "downloaded_at": "2025-06-14T19:51:56.666233"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=uncompress-the-log-file",
+    "downloaded_at": "2025-06-14T19:51:57.775534"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=extract-the-ip-column",
+    "downloaded_at": "2025-06-14T19:51:58.885093"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=more-commands",
+    "downloaded_at": "2025-06-14T19:51:59.985802"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=find-bots",
+    "downloaded_at": "2025-06-14T19:52:01.099034"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=convert-logs-to-csv",
+    "downloaded_at": "2025-06-14T19:52:02.198960"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=find-lines-matching-an-ip",
+    "downloaded_at": "2025-06-14T19:52:03.309311"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=preview-the-logs",
+    "downloaded_at": "2025-06-14T19:52:04.410427"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=list-files",
+    "downloaded_at": "2025-06-14T19:52:05.513204"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=count-requests",
+    "downloaded_at": "2025-06-14T19:52:06.629040"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=download-logs",
+    "downloaded_at": "2025-06-14T19:52:07.731477"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-shell?id=data-preparation-in-the-shell",
+    "downloaded_at": "2025-06-14T19:52:08.846170"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-editor",
+    "downloaded_at": "2025-06-14T19:52:09.887399"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-preparation-in-the-editor?id=data-preparation-in-the-editor",
+    "downloaded_at": "2025-06-14T19:52:10.931621"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../github-actions",
+    "downloaded_at": "2025-06-14T19:52:11.990193"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../github-actions?id=cicd-github-actions",
+    "downloaded_at": "2025-06-14T19:52:13.044202"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-aggregation-in-excel",
+    "downloaded_at": "2025-06-14T19:52:14.084606"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../data-aggregation-in-excel?id=data-aggregation-in-excel",
+    "downloaded_at": "2025-06-14T19:52:15.127978"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/2025-01/?id=notes",
+    "downloaded_at": "2025-06-14T19:52:16.188246"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../spreadsheets",
+    "downloaded_at": "2025-06-14T19:52:17.228768"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../spreadsheets?id=spreadsheet-excel-google-sheets",
+    "downloaded_at": "2025-06-14T19:52:18.275409"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../narratives-with-excel",
+    "downloaded_at": "2025-06-14T19:52:19.317454"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../narratives-with-excel?id=narratives-with-excel",
+    "downloaded_at": "2025-06-14T19:52:20.361200"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../function-calling",
+    "downloaded_at": "2025-06-14T19:52:21.427757"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../function-calling?id=how-to-define-multiple-functions",
+    "downloaded_at": "2025-06-14T19:52:22.504528"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../function-calling?id=function-calling-with-openai",
+    "downloaded_at": "2025-06-14T19:52:23.563250"
+  },
+  {
+    "title": "Tools in Data Science",
+    "filename": "Tools_in_Data_Science.md",
+    "original_url": "https://tds.s-anand.net/#/../function-calling?id=how-to-define-functions",
+    "downloaded_at": "2025-06-14T19:52:24.633774"
+  }
+]
